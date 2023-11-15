@@ -1,0 +1,22 @@
+[metadata]
+addr = 0x1ef918
+size = 0x8
+last_change = 2023-11-15T17:22:58.423118Z
+
+[header]
+last_change = 2023-11-15T17:19:28.737008Z
+name = "CPed::SetMoveState"
+addr = 0x1ef918
+type = "void"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "int"
+size = 0x4
