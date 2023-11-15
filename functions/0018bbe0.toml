@@ -1,9 +1,4 @@
 [metadata]
 addr = 0x18bbe0
 size = 0x7f0
-last_change = 2023-11-15T17:07:36.111081Z
-
-[header]
-last_change = 2023-11-15T17:07:36.111081Z
-name = "_cMusicManager::DisplayRadioStationName"
-addr = 0x18bbe0
+last_change = 2023-11-15T17:07:36.338874Z
