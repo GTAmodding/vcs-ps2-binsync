@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x285e08
+size = 0x74
+last_change = 2023-11-15T17:21:22.339140Z
+
+[header]
+last_change = 2023-11-15T17:19:36.649864Z
+name = "CPad::GetHorn"
+addr = 0x285e08
+type = "short"
+
+[header.args.0]
+offset = 0x0
+name = "pad"
+type = "CPad *"
+size = 0x4
