@@ -1,5 +1,5 @@
 user = "tag"
 version = 0x0
-last_push_time = 2023-11-15T14:41:55.282653Z
-last_push_artifact = -1
-last_push_artifact_type = -1
+last_push_time = 2023-11-15T14:42:07.243093Z
+last_push_artifact = 0x4819fc
+last_push_artifact_type = "global variable"
