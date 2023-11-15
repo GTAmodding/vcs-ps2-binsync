@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x285c20
+size = 0x1b0
+last_change = 2023-11-15T17:20:57.880440Z
+
+[header]
+last_change = 2023-11-15T17:19:36.432234Z
+name = "CPad::GetLookBehindForCar"
+addr = 0x285c20
+type = "short"
+
+[header.args.0]
+offset = 0x0
+name = "pad"
+type = "CPad *"
+size = 0x4
