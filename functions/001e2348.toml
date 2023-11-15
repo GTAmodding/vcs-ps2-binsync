@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x1e2348
+size = 0x4c
+last_change = 2023-11-15T17:22:24.090540Z
+
+[header]
+last_change = 2023-11-15T17:19:28.145824Z
+name = "__RegenerateAllPickups"
+addr = 0x1e2348
+type = "long"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "unsigned long"
+size = 0x8
