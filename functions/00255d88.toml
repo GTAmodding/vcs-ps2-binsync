@@ -1,0 +1,10 @@
+[metadata]
+addr = 0x255d88
+size = 0x1c
+last_change = 2023-11-15T17:22:48.416025Z
+
+[header]
+last_change = 2023-11-15T17:19:33.706845Z
+name = "CTheScripts::StartTestScript"
+addr = 0x255d88
+type = "long"
