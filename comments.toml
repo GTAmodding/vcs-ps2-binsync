@@ -1,6 +1,6 @@
-[0x13ba98]
-last_change = 2023-11-15T14:41:17.227889Z
-addr = 0x13ba98
+[0x13b9d0]
+last_change = 2023-11-15T14:41:17.077374Z
+addr = 0x13b9d0
 func_addr = 0x13a0a0
-comment = "jumptable 0013AC88 case 3\n"
+comment = "jumptable 0013AC88 case 2\n"
 decompiled = false
