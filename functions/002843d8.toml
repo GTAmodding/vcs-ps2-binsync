@@ -1,0 +1,155 @@
+[metadata]
+addr = 0x2843d8
+size = 0xc94
+last_change = 2023-11-15T17:21:48.458147Z
+
+[header]
+last_change = 2023-11-15T17:19:35.256971Z
+name = "CPad::Update"
+addr = 0x2843d8
+type = "void"
+
+[stack_vars.-0x58]
+offset = 0x0
+name = "v98"
+type = "char"
+size = 0x1
+addr = 0x2843d8
+
+[stack_vars.-0x57]
+offset = 0x1
+name = "v99"
+type = "unsigned char"
+size = 0x1
+addr = 0x2843d8
+
+[stack_vars.-0x56]
+offset = 0x2
+name = "v100"
+type = "unsigned short"
+size = 0x2
+addr = 0x2843d8
+
+[stack_vars.-0x54]
+offset = 0x4
+name = "v101"
+type = "unsigned char"
+size = 0x1
+addr = 0x2843d8
+
+[stack_vars.-0x53]
+offset = 0x5
+name = "v102"
+type = "unsigned char"
+size = 0x1
+addr = 0x2843d8
+
+[stack_vars.-0x52]
+offset = 0x6
+name = "v103"
+type = "unsigned char"
+size = 0x1
+addr = 0x2843d8
+
+[stack_vars.-0x51]
+offset = 0x7
+name = "v104"
+type = "unsigned char"
+size = 0x1
+addr = 0x2843d8
+
+[stack_vars.-0x50]
+offset = 0x8
+name = "v105"
+type = "unsigned char"
+size = 0x1
+addr = 0x2843d8
+
+[stack_vars.-0x4f]
+offset = 0x9
+name = "v106"
+type = "unsigned char"
+size = 0x1
+addr = 0x2843d8
+
+[stack_vars.-0x4e]
+offset = 0xa
+name = "v107"
+type = "unsigned char"
+size = 0x1
+addr = 0x2843d8
+
+[stack_vars.-0x4d]
+offset = 0xb
+name = "v108"
+type = "unsigned char"
+size = 0x1
+addr = 0x2843d8
+
+[stack_vars.-0x4c]
+offset = 0xc
+name = "v109"
+type = "unsigned char"
+size = 0x1
+addr = 0x2843d8
+
+[stack_vars.-0x4b]
+offset = 0xd
+name = "v110"
+type = "unsigned char"
+size = 0x1
+addr = 0x2843d8
+
+[stack_vars.-0x4a]
+offset = 0xe
+name = "v111"
+type = "unsigned char"
+size = 0x1
+addr = 0x2843d8
+
+[stack_vars.-0x49]
+offset = 0xf
+name = "v112"
+type = "unsigned char"
+size = 0x1
+addr = 0x2843d8
+
+[stack_vars.-0x48]
+offset = 0x10
+name = "v113"
+type = "unsigned char"
+size = 0x1
+addr = 0x2843d8
+
+[stack_vars.-0x47]
+offset = 0x11
+name = "v114"
+type = "unsigned char"
+size = 0x1
+addr = 0x2843d8
+
+[stack_vars.-0x46]
+offset = 0x12
+name = "v115"
+type = "unsigned char"
+size = 0x1
+addr = 0x2843d8
+
+[stack_vars.-0x45]
+offset = 0x13
+name = "v116"
+type = "unsigned char"
+size = 0x1
+addr = 0x2843d8
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "CPad *"
+size = 0x4
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "short"
+size = 0x2
