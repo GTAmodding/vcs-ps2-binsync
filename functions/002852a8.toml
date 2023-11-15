@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x2852a8
+size = 0x18
+last_change = 2023-11-15T17:21:38.497375Z
+
+[header]
+last_change = 2023-11-15T17:19:35.355495Z
+name = "CPad::GetPad"
+addr = 0x2852a8
+type = "long"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
