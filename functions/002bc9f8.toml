@@ -1,0 +1,22 @@
+[metadata]
+addr = 0x2bc9f8
+size = 0x74
+last_change = 2023-11-15T17:25:04.320013Z
+
+[header]
+last_change = 2023-11-15T17:19:51.214479Z
+name = "memAllocator__free"
+addr = 0x2bc9f8
+type = "long"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int *"
+size = 0x4
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "unsigned long"
+size = 0x8
