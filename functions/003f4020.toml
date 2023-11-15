@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x3f4020
+size = 0x20
+last_change = 2023-11-15T17:24:23.610919Z
+
+[header]
+last_change = 2023-11-15T17:19:58.605345Z
+name = "CFont::SetColor"
+addr = 0x3f4020
+type = "long"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int *"
+size = 0x4
