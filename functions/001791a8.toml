@@ -1,9 +1,28 @@
 [metadata]
 addr = 0x1791a8
 size = 0x24
-last_change = 2023-11-15T17:07:21.756410Z
+last_change = 2023-11-15T17:20:41.912073Z
 
 [header]
-last_change = 2023-11-15T17:07:21.756410Z
-name = "_CFileMgr::Read"
+last_change = 2023-11-15T17:19:25.898828Z
+name = "CFileMgr::Read"
 addr = 0x1791a8
+type = "long"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "long"
+size = 0x8
+
+[header.args.2]
+offset = 0x2
+name = "a3"
+type = "long"
+size = 0x8
