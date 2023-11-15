@@ -1,0 +1,42 @@
+[metadata]
+addr = 0x1d0198
+size = 0x504
+last_change = 2023-11-15T17:23:44.399246Z
+
+[header]
+last_change = 2023-11-15T17:19:27.908551Z
+name = "CPed::SetPointGunAt"
+addr = 0x1d0198
+type = "long"
+
+[stack_vars.-0x40]
+offset = 0x0
+name = "v33"
+type = "long"
+size = 0x8
+addr = 0x1d0198
+
+[stack_vars.-0x38]
+offset = 0x8
+name = "v34"
+type = "int"
+size = 0x4
+addr = 0x1d0198
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "long"
+size = 0x8
+
+[header.args.2]
+offset = 0x2
+name = "a3"
+type = "long"
+size = 0x8
