@@ -1,0 +1,10 @@
+[metadata]
+addr = 0x109970
+size = 0x2c
+last_change = 2023-11-15T17:21:55.792502Z
+
+[header]
+last_change = 2023-11-15T17:19:15.000467Z
+name = "lua_isnoneornil"
+addr = 0x109970
+type = "long"
