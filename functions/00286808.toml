@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x286808
+size = 0x44
+last_change = 2023-11-15T17:23:15.917723Z
+
+[header]
+last_change = 2023-11-15T17:19:39.670272Z
+name = "CPad::ShiftTargetLeftJustDown"
+addr = 0x286808
+type = "short"
+
+[header.args.0]
+offset = 0x0
+name = "pad"
+type = "CPad *"
+size = 0x4
