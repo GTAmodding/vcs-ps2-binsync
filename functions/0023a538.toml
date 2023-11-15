@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x23a538
+size = 0x6c
+last_change = 2023-11-15T17:20:34.222916Z
+
+[header]
+last_change = 2023-11-15T17:19:32.664783Z
+name = "CPlayerPed::MovementDisabledBecauseOfTargeting"
+addr = 0x23a538
+type = "long"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
