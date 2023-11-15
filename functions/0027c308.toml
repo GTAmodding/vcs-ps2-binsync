@@ -1,0 +1,10 @@
+[metadata]
+addr = 0x27c308
+size = 0x10c
+last_change = 2023-11-15T17:22:23.217159Z
+
+[header]
+last_change = 2023-11-15T17:19:34.245622Z
+name = "CCoronas::Update"
+addr = 0x27c308
+type = "void"
