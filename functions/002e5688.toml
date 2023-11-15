@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x2e5688
+size = 0x50
+last_change = 2023-11-15T17:24:53.940036Z
+
+[header]
+last_change = 2023-11-15T17:19:53.057964Z
+name = "cSmallHeap::Lock"
+addr = 0x2e5688
+type = "long"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
