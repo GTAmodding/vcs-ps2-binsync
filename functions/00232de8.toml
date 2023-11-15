@@ -1,0 +1,99 @@
+[metadata]
+addr = 0x232de8
+size = 0x490
+last_change = 2023-11-15T17:21:56.828272Z
+
+[header]
+last_change = 2023-11-15T17:19:30.537185Z
+name = "CPlayerPed::PlayerControlZelda"
+addr = 0x232de8
+type = "long"
+
+[stack_vars.-0x58]
+offset = 0x10
+name = "v48"
+type = "float"
+size = 0x4
+addr = 0x232de8
+
+[stack_vars.-0x54]
+offset = 0x14
+name = "v49"
+type = "float"
+size = 0x4
+addr = 0x232de8
+
+[stack_vars.-0x50]
+offset = 0x18
+name = "v50"
+type = "float"
+size = 0x4
+addr = 0x232de8
+
+[stack_vars.-0x4c]
+offset = 0x1c
+name = "v51"
+type = "float"
+size = 0x4
+addr = 0x232de8
+
+[stack_vars.-0x30]
+offset = 0x38
+name = "v52"
+type = "long"
+size = 0x8
+addr = 0x232de8
+
+[stack_vars.-0x28]
+offset = 0x40
+name = "v53"
+type = "float"
+size = 0x4
+addr = 0x232de8
+
+[stack_vars.-0x20]
+offset = 0x48
+name = "v54"
+type = "float"
+size = 0x4
+addr = 0x232de8
+
+[stack_vars.-0x18]
+offset = 0x50
+name = "v55"
+type = "float"
+size = 0x4
+addr = 0x232de8
+
+[stack_vars.-0x10]
+offset = 0x58
+name = "v56"
+type = "float"
+size = 0x4
+addr = 0x232de8
+
+[stack_vars.-0x8]
+offset = 0x60
+name = "v57"
+type = "float"
+size = 0x4
+addr = 0x232de8
+
+[stack_vars.0x0]
+offset = 0x68
+name = "v58"
+type = "float"
+size = 0x4
+addr = 0x232de8
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "long"
+size = 0x8
