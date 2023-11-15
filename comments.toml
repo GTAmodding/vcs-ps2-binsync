@@ -47,16 +47,16 @@ func_addr = 0x18bbe0
 comment = "jumptable 0018BE00 case 2\n"
 decompiled = false
 
+[0x18bf74]
+last_change = 2023-11-15T17:07:44.249889Z
+addr = 0x18bf74
+func_addr = 0x18bbe0
+comment = "jumptable 0018BE00 case 7\n"
+decompiled = false
+
 [0x18bfdc]
 last_change = 2023-11-15T17:07:21.233269Z
 addr = 0x18bfdc
 func_addr = 0x18bbe0
 comment = "jumptable 0018BE00 case 111\n"
-decompiled = false
-
-[0x18c02c]
-last_change = 2023-11-15T17:07:37.124052Z
-addr = 0x18c02c
-func_addr = 0x18bbe0
-comment = "jumptable 0018BE00 cases 9-23,30\n"
 decompiled = false
