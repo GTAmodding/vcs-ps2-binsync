@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x285f40
+size = 0x2c
+last_change = 2023-11-15T17:24:43.534128Z
+
+[header]
+last_change = 2023-11-15T17:19:36.987967Z
+name = "CPad::CarGunJustDown"
+addr = 0x285f40
+type = "short"
+
+[header.args.0]
+offset = 0x0
+name = "pad"
+type = "CPad *"
+size = 0x4
