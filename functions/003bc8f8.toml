@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x3bc8f8
+size = 0xac
+last_change = 2023-11-15T17:20:33.857722Z
+
+[header]
+last_change = 2023-11-15T17:19:55.451353Z
+name = "CPed::RestorePreviousObjective"
+addr = 0x3bc8f8
+type = "unsigned long"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
