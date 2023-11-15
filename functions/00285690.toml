@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x285690
+size = 0x70
+last_change = 2023-11-15T17:21:21.447208Z
+
+[header]
+last_change = 2023-11-15T17:19:35.913812Z
+name = "CPad::GetPedWalkLeftRight"
+addr = 0x285690
+type = "short"
+
+[header.args.0]
+offset = 0x0
+name = "pad"
+type = "CPad *"
+size = 0x4
