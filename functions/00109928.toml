@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x109928
+size = 0x44
+last_change = 2023-11-15T17:23:24.669707Z
+
+[header]
+last_change = 2023-11-15T17:19:14.916797Z
+name = "lua_setglobal"
+addr = 0x109928
+type = "long"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
