@@ -1,9 +1,16 @@
 [metadata]
 addr = 0x104af8
 size = 0xb8
-last_change = 2023-11-15T14:43:34.223060Z
+last_change = 2023-11-15T17:20:49.789100Z
 
 [header]
-last_change = 2023-11-15T14:43:34.223060Z
+last_change = 2023-11-15T17:19:14.652245Z
 name = "Display__9CMessagesFv"
 addr = 0x104af8
+type = "long"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
