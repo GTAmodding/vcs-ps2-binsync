@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x283788
+size = 0x64
+last_change = 2023-11-15T17:22:49.909117Z
+
+[header]
+last_change = 2023-11-15T17:19:34.446693Z
+name = "CControllerState::Clear"
+addr = 0x283788
+type = "void"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "_WORD *"
+size = 0x4
