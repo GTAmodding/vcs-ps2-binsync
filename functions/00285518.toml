@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x285518
+size = 0x64
+last_change = 2023-11-15T17:22:05.390637Z
+
+[header]
+last_change = 2023-11-15T17:19:35.697897Z
+name = "CPad::GetCarGunUpDown"
+addr = 0x285518
+type = "short"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "short *"
+size = 0x4
