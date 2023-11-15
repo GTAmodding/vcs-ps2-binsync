@@ -1,0 +1,34 @@
+[metadata]
+addr = 0x254b90
+size = 0x234
+last_change = 2023-11-15T17:23:33.982693Z
+
+[header]
+last_change = 2023-11-15T17:19:32.880843Z
+name = "CScriptThread__getNumberParams"
+addr = 0x254b90
+type = "long"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "long"
+size = 0x8
+
+[header.args.2]
+offset = 0x2
+name = "a3"
+type = "long"
+size = 0x8
+
+[header.args.3]
+offset = 0x3
+name = "a4"
+type = "long"
+size = 0x8
