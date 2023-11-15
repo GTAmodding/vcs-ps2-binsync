@@ -1,0 +1,22 @@
+[metadata]
+addr = 0x237048
+size = 0x588
+last_change = 2023-11-15T17:20:10.539496Z
+
+[header]
+last_change = 2023-11-15T17:19:32.574723Z
+name = "CPlayerPed::ProcessWeaponSwitch"
+addr = 0x237048
+type = "long"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "long"
+size = 0x8
