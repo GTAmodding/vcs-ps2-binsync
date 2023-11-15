@@ -1,9 +1,136 @@
 [metadata]
 addr = 0x116ac8
 size = 0x210
-last_change = 2023-11-15T17:06:15.303071Z
+last_change = 2023-11-15T17:21:58.085972Z
 
 [header]
-last_change = 2023-11-15T17:06:15.303071Z
-name = "_CRadar::DrawRotatingRadarSprite"
+last_change = 2023-11-15T17:19:15.309996Z
+name = "CRadar::DrawRotatingRadarSprite"
 addr = 0x116ac8
+type = "long"
+
+[stack_vars.-0xb8]
+offset = 0x0
+name = "v37"
+type = "float"
+size = 0x4
+addr = 0x116ac8
+
+[stack_vars.-0xb4]
+offset = 0x4
+name = "v38"
+type = "float"
+size = 0x4
+addr = 0x116ac8
+
+[stack_vars.-0x98]
+offset = 0x20
+name = "v39"
+type = "float"
+size = 0x4
+addr = 0x116ac8
+
+[stack_vars.-0x94]
+offset = 0x24
+name = "v40"
+type = "float"
+size = 0x4
+addr = 0x116ac8
+
+[stack_vars.-0x88]
+offset = 0x30
+name = "v41"
+type = "char[16]"
+size = 0x10
+addr = 0x116ac8
+
+[stack_vars.-0x30]
+offset = 0x88
+name = "v42"
+type = "long"
+size = 0x8
+addr = 0x116ac8
+
+[stack_vars.-0x28]
+offset = 0x90
+name = "v43"
+type = "float"
+size = 0x4
+addr = 0x116ac8
+
+[stack_vars.-0x20]
+offset = 0x98
+name = "v44"
+type = "float"
+size = 0x4
+addr = 0x116ac8
+
+[stack_vars.-0x18]
+offset = 0xa0
+name = "v45"
+type = "float"
+size = 0x4
+addr = 0x116ac8
+
+[stack_vars.-0x10]
+offset = 0xa8
+name = "v46"
+type = "float"
+size = 0x4
+addr = 0x116ac8
+
+[stack_vars.-0x8]
+offset = 0xb0
+name = "v47"
+type = "float"
+size = 0x4
+addr = 0x116ac8
+
+[stack_vars.0x0]
+offset = 0xb8
+name = "v48"
+type = "float"
+size = 0x4
+addr = 0x116ac8
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "char"
+size = 0x1
+
+[header.args.2]
+offset = 0x2
+name = "a3"
+type = "char"
+size = 0x1
+
+[header.args.3]
+offset = 0x3
+name = "a4"
+type = "char"
+size = 0x1
+
+[header.args.4]
+offset = 0x4
+name = "a5"
+type = "char"
+size = 0x1
+
+[header.args.5]
+offset = 0x5
+name = "a6"
+type = "float"
+size = 0x4
+
+[header.args.6]
+offset = 0x6
+name = "a7"
+type = "float"
+size = 0x4
