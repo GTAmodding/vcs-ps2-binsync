@@ -1,3 +1,10 @@
+[0x13ac90]
+last_change = 2023-11-15T14:41:55.282653Z
+addr = 0x13ac90
+func_addr = 0x13a0a0
+comment = "jumptable 0013AC88 case 12\n"
+decompiled = false
+
 [0x13ada0]
 last_change = 2023-11-15T14:41:40.326362Z
 addr = 0x13ada0
@@ -10,11 +17,4 @@ last_change = 2023-11-15T14:41:17.077374Z
 addr = 0x13b9d0
 func_addr = 0x13a0a0
 comment = "jumptable 0013AC88 case 2\n"
-decompiled = false
-
-[0x13bf08]
-last_change = 2023-11-15T14:41:55.104054Z
-addr = 0x13bf08
-func_addr = 0x13a0a0
-comment = "jumptable 0013AC88 default case, cases 1,6-11\n"
 decompiled = false
