@@ -1,4 +1,9 @@
 [metadata]
 addr = 0x179188
 size = 0x1c
-last_change = 2023-11-15T17:06:52.729057Z
+last_change = 2023-11-15T17:06:58.677452Z
+
+[header]
+last_change = 2023-11-15T17:06:58.677452Z
+name = "_CFileMgr::OpenFile"
+addr = 0x179188
