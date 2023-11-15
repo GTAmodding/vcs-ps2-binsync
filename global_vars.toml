@@ -33,9 +33,3 @@ last_change = 2023-11-15T14:42:45.277560Z
 addr = 0x49b480
 name = ""
 size = 0x38
-
-[0x4a6580]
-last_change = 2023-11-15T17:07:29.114944Z
-addr = 0x4a6580
-name = "jpt_18BE00"
-size = 0x1c0
