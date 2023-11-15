@@ -1,9 +1,16 @@
 [metadata]
 addr = 0x2551d0
 size = 0xc0
-last_change = 2023-11-15T17:01:59.017831Z
+last_change = 2023-11-15T17:23:23.931931Z
 
 [header]
-last_change = 2023-11-15T17:01:59.017831Z
+last_change = 2023-11-15T17:19:33.069541Z
 name = "Init__14CRunningScriptFv"
 addr = 0x2551d0
+type = "void"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "CRunningScript *"
+size = 0x4
