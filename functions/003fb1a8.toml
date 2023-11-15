@@ -1,0 +1,29 @@
+[metadata]
+addr = 0x3fb1a8
+size = 0x70
+last_change = 2023-11-15T17:24:22.600093Z
+
+[header]
+last_change = 2023-11-15T17:19:59.045510Z
+name = "CText::Get"
+addr = 0x3fb1a8
+type = "long"
+
+[stack_vars.-0x20]
+offset = 0x0
+name = "v6"
+type = "char[16]"
+size = 0x10
+addr = 0x3fb1a8
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "char *"
+size = 0x4
