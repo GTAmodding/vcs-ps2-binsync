@@ -1,0 +1,22 @@
+[metadata]
+addr = 0x109610
+size = 0x8c
+last_change = 2023-11-15T17:22:59.055623Z
+
+[header]
+last_change = 2023-11-15T17:19:14.830794Z
+name = "lua_checkstack"
+addr = 0x109610
+type = "long"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "int"
+size = 0x4
