@@ -1,0 +1,198 @@
+[metadata]
+addr = 0x134a28
+size = 0x10bc
+last_change = 2023-11-15T17:22:33.100898Z
+
+[header]
+last_change = 2023-11-15T17:19:15.932580Z
+name = "HydraulicControl__11CAutomobileFv"
+addr = 0x134a28
+type = "long"
+
+[stack_vars.-0x100]
+offset = 0x0
+name = "v151"
+type = "_BYTE[16]"
+size = 0x10
+addr = 0x134a28
+
+[stack_vars.-0xf0]
+offset = 0x10
+name = "v152"
+type = "float"
+size = 0x4
+addr = 0x134a28
+
+[stack_vars.-0xec]
+offset = 0x14
+name = "v153"
+type = "float"
+size = 0x4
+addr = 0x134a28
+
+[stack_vars.-0xe8]
+offset = 0x18
+name = "v154"
+type = "float"
+size = 0x4
+addr = 0x134a28
+
+[stack_vars.-0xe4]
+offset = 0x1c
+name = "v155"
+type = "float"
+size = 0x4
+addr = 0x134a28
+
+[stack_vars.-0xe0]
+offset = 0x20
+name = "v156"
+type = "float[4]"
+size = 0x10
+addr = 0x134a28
+
+[stack_vars.-0xd0]
+offset = 0x30
+name = "v157"
+type = "int"
+size = 0x4
+addr = 0x134a28
+
+[stack_vars.-0xcc]
+offset = 0x34
+name = "v158"
+type = "int"
+size = 0x4
+addr = 0x134a28
+
+[stack_vars.-0xc8]
+offset = 0x38
+name = "v159"
+type = "int"
+size = 0x4
+addr = 0x134a28
+
+[stack_vars.-0xc4]
+offset = 0x3c
+name = "v160"
+type = "float *"
+size = 0x4
+addr = 0x134a28
+
+[stack_vars.-0xc0]
+offset = 0x40
+name = "v161"
+type = "int"
+size = 0x4
+addr = 0x134a28
+
+[stack_vars.-0xbc]
+offset = 0x44
+name = "v162"
+type = "int"
+size = 0x4
+addr = 0x134a28
+
+[stack_vars.-0xb8]
+offset = 0x48
+name = "v163"
+type = "int"
+size = 0x4
+addr = 0x134a28
+
+[stack_vars.-0xb4]
+offset = 0x4c
+name = "v164"
+type = "int"
+size = 0x4
+addr = 0x134a28
+
+[stack_vars.-0xb0]
+offset = 0x50
+name = "v165"
+type = "int"
+size = 0x4
+addr = 0x134a28
+
+[stack_vars.-0x58]
+offset = 0xa8
+name = "v166"
+type = "long"
+size = 0x8
+addr = 0x134a28
+
+[stack_vars.-0x50]
+offset = 0xb0
+name = "v167"
+type = "float"
+size = 0x4
+addr = 0x134a28
+
+[stack_vars.-0x48]
+offset = 0xb8
+name = "v168"
+type = "float"
+size = 0x4
+addr = 0x134a28
+
+[stack_vars.-0x40]
+offset = 0xc0
+name = "v169"
+type = "float"
+size = 0x4
+addr = 0x134a28
+
+[stack_vars.-0x38]
+offset = 0xc8
+name = "v170"
+type = "float"
+size = 0x4
+addr = 0x134a28
+
+[stack_vars.-0x30]
+offset = 0xd0
+name = "v171"
+type = "float"
+size = 0x4
+addr = 0x134a28
+
+[stack_vars.-0x28]
+offset = 0xd8
+name = "v172"
+type = "float"
+size = 0x4
+addr = 0x134a28
+
+[stack_vars.-0x20]
+offset = 0xe0
+name = "v173"
+type = "float"
+size = 0x4
+addr = 0x134a28
+
+[stack_vars.-0x18]
+offset = 0xe8
+name = "v174"
+type = "float"
+size = 0x4
+addr = 0x134a28
+
+[stack_vars.-0x10]
+offset = 0xf0
+name = "v175"
+type = "float"
+size = 0x4
+addr = 0x134a28
+
+[stack_vars.-0x8]
+offset = 0xf8
+name = "v176"
+type = "float"
+size = 0x4
+addr = 0x134a28
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
