@@ -1,8 +1,10 @@
 [metadata]
 addr = 0x179188
 size = 0x1c
-last_change = 2023-11-15T17:06:58.677452Z
+last_change = 2023-11-15T17:22:05.904648Z
 
 [header]
-name = "_CFileMgr::OpenFile"
+last_change = 2023-11-15T17:19:25.823313Z
+name = "CFileMgr::OpenFile"
 addr = 0x179188
+type = "long"
