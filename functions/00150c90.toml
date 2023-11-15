@@ -1,9 +1,289 @@
 [metadata]
 addr = 0x150c90
 size = 0xc94
-last_change = 2023-11-15T17:06:35.931425Z
+last_change = 2023-11-15T17:23:43.353438Z
 
 [header]
-last_change = 2023-11-15T17:06:35.931425Z
-name = "_CAutomobile::TankControl"
+last_change = 2023-11-15T17:19:25.484880Z
+name = "CAutomobile::TankControl"
 addr = 0x150c90
+type = "long"
+
+[stack_vars.-0x140]
+offset = 0x50
+name = "v75"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0x13c]
+offset = 0x54
+name = "v76"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0x130]
+offset = 0x60
+name = "v77"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0x12c]
+offset = 0x64
+name = "v79"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0x128]
+offset = 0x68
+name = "v80"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0x118]
+offset = 0x78
+name = "v81"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0x110]
+offset = 0x80
+name = "v82"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0x10c]
+offset = 0x84
+name = "v83"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0x108]
+offset = 0x88
+name = "v84"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0x104]
+offset = 0x8c
+name = "v85"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0x100]
+offset = 0x90
+name = "v86"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0xfc]
+offset = 0x94
+name = "v87"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0xf8]
+offset = 0x98
+name = "v88"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0xf4]
+offset = 0x9c
+name = "v89"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0xf0]
+offset = 0xa0
+name = "v90"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0xec]
+offset = 0xa4
+name = "v91"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0xe8]
+offset = 0xa8
+name = "v92"
+type = "long"
+size = 0x8
+addr = 0x150c90
+
+[stack_vars.-0xe0]
+offset = 0xb0
+name = "v93"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0xdc]
+offset = 0xb4
+name = "v94"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0xd8]
+offset = 0xb8
+name = "v95"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0xd4]
+offset = 0xbc
+name = "v96"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0xd0]
+offset = 0xc0
+name = "v97"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0xcc]
+offset = 0xc4
+name = "v98"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0xc8]
+offset = 0xc8
+name = "v99"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0xc4]
+offset = 0xcc
+name = "v100"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0xc0]
+offset = 0xd0
+name = "v101"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0xbc]
+offset = 0xd4
+name = "v102"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0xb8]
+offset = 0xd8
+name = "v103"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0xb4]
+offset = 0xdc
+name = "v104"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0x80]
+offset = 0x110
+name = "v105"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0x7c]
+offset = 0x114
+name = "v106"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0x78]
+offset = 0x118
+name = "v107"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0x70]
+offset = 0x120
+name = "v108"
+type = "int"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0x6c]
+offset = 0x124
+name = "v109"
+type = "int[3]"
+size = 0xc
+addr = 0x150c90
+
+[stack_vars.-0x28]
+offset = 0x168
+name = "v110"
+type = "long"
+size = 0x8
+addr = 0x150c90
+
+[stack_vars.-0x20]
+offset = 0x170
+name = "v111"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0x18]
+offset = 0x178
+name = "v112"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0x10]
+offset = 0x180
+name = "v113"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[stack_vars.-0x8]
+offset = 0x188
+name = "v114"
+type = "float"
+size = 0x4
+addr = 0x150c90
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
