@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x286458
+size = 0x4c
+last_change = 2023-11-15T17:24:42.299184Z
+
+[header]
+last_change = 2023-11-15T17:19:38.625413Z
+name = "CPad::CycleWeaponRightJustDown"
+addr = 0x286458
+type = "short"
+
+[header.args.0]
+offset = 0x0
+name = "pad"
+type = "CPad *"
+size = 0x4
