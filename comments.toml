@@ -40,13 +40,6 @@ func_addr = 0x13a0a0
 comment = "jumptable 0013AC88 default case, cases 1,6-11\n"
 decompiled = false
 
-[0x18bf40]
-last_change = 2023-11-15T17:07:21.977506Z
-addr = 0x18bf40
-func_addr = 0x18bbe0
-comment = "jumptable 0018BE00 case 6\n"
-decompiled = false
-
 [0x18bfdc]
 last_change = 2023-11-15T17:07:21.233269Z
 addr = 0x18bfdc
