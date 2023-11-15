@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x286100
+size = 0x44
+last_change = 2023-11-15T17:24:03.800524Z
+
+[header]
+last_change = 2023-11-15T17:19:37.673246Z
+name = "CPad::ExitVehicleJustDown"
+addr = 0x286100
+type = "short"
+
+[header.args.0]
+offset = 0x0
+name = "pad"
+type = "CPad *"
+size = 0x4
