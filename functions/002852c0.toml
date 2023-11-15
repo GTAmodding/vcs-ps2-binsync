@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x2852c0
+size = 0x19c
+last_change = 2023-11-15T17:21:39.076457Z
+
+[header]
+last_change = 2023-11-15T17:19:35.486846Z
+name = "CPad::GetSteeringLeftRight"
+addr = 0x2852c0
+type = "short"
+
+[header.args.0]
+offset = 0x0
+name = "pad"
+type = "CPad *"
+size = 0x4
