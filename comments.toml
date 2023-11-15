@@ -54,9 +54,9 @@ func_addr = 0x18bbe0
 comment = "jumptable 0018BE00 case 111\n"
 decompiled = false
 
-[0x18c3a4]
-last_change = 2023-11-15T17:07:36.879434Z
-addr = 0x18c3a4
+[0x18c02c]
+last_change = 2023-11-15T17:07:37.124052Z
+addr = 0x18c02c
 func_addr = 0x18bbe0
-comment = "jumptable 0018BE00 default case\n"
+comment = "jumptable 0018BE00 cases 9-23,30\n"
 decompiled = false
