@@ -1,9 +1,44 @@
 [metadata]
 addr = 0x188a20
 size = 0x29c
-last_change = 2023-11-15T17:07:05.750457Z
+last_change = 2023-11-15T17:24:11.538721Z
 
 [header]
-last_change = 2023-11-15T17:07:05.750457Z
-name = "_cMusicManager::ResetMusicAfterReload"
+last_change = 2023-11-15T17:19:26.435378Z
+name = "cMusicManager::ResetMusicAfterReload"
 addr = 0x188a20
+type = "long"
+
+[stack_vars.-0x88]
+offset = 0x0
+name = "v30"
+type = "_BYTE[48]"
+size = 0x30
+addr = 0x188a20
+
+[stack_vars.-0x10]
+offset = 0x78
+name = "v31"
+type = "long"
+size = 0x8
+addr = 0x188a20
+
+[stack_vars.-0x8]
+offset = 0x80
+name = "v32"
+type = "float"
+size = 0x4
+addr = 0x188a20
+
+[stack_vars.0x0]
+offset = 0x88
+name = "v33"
+type = "float"
+size = 0x4
+addr = 0x188a20
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
