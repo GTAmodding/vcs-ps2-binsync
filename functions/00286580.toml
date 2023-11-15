@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x286580
+size = 0xac
+last_change = 2023-11-15T17:23:25.676350Z
+
+[header]
+last_change = 2023-11-15T17:19:39.154402Z
+name = "CPad::GetSprint"
+addr = 0x286580
+type = "short"
+
+[header.args.0]
+offset = 0x0
+name = "pad"
+type = "CPad *"
+size = 0x4
