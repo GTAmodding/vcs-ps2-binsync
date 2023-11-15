@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x286030
+size = 0x1c
+last_change = 2023-11-15T17:20:18.485355Z
+
+[header]
+last_change = 2023-11-15T17:19:37.326836Z
+name = "CPad::GetBrake"
+addr = 0x286030
+type = "short"
+
+[header.args.0]
+offset = 0x0
+name = "pad"
+type = "CPad *"
+size = 0x4
