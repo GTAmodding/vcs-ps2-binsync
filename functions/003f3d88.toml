@@ -1,0 +1,60 @@
+[metadata]
+addr = 0x3f3d88
+size = 0x268
+last_change = 2023-11-15T17:20:26.407264Z
+
+[header]
+last_change = 2023-11-15T17:19:58.180232Z
+name = "CFont::PrintString_0"
+addr = 0x3f3d88
+type = "long"
+
+[stack_vars.-0x68]
+offset = 0x0
+name = "v29"
+type = "int[4]"
+size = 0x10
+addr = 0x3f3d88
+
+[stack_vars.-0x58]
+offset = 0x10
+name = "v30"
+type = "char[16]"
+size = 0x10
+addr = 0x3f3d88
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "long"
+size = 0x8
+
+[header.args.2]
+offset = 0x2
+name = "a3"
+type = "long"
+size = 0x8
+
+[header.args.3]
+offset = 0x3
+name = "a4"
+type = "long"
+size = 0x8
+
+[header.args.4]
+offset = 0x4
+name = "a5"
+type = "long"
+size = 0x8
+
+[header.args.5]
+offset = 0x5
+name = "a6"
+type = "long"
+size = 0x8
