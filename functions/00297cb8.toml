@@ -1,0 +1,512 @@
+[metadata]
+addr = 0x297cb8
+size = 0x182c
+last_change = 2023-11-15T17:25:26.746135Z
+
+[header]
+last_change = 2023-11-15T17:19:44.952102Z
+name = "CCam::Process_M16_1stPerson"
+addr = 0x297cb8
+type = "long"
+
+[stack_vars.-0x248]
+offset = 0x30
+name = "v184"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x244]
+offset = 0x34
+name = "v185"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x240]
+offset = 0x38
+name = "v186"
+type = "long"
+size = 0x8
+addr = 0x297cb8
+
+[stack_vars.-0x238]
+offset = 0x40
+name = "v187"
+type = "__int128"
+size = 0x10
+addr = 0x297cb8
+
+[stack_vars.-0x228]
+offset = 0x50
+name = "v188"
+type = "long"
+size = 0x8
+addr = 0x297cb8
+
+[stack_vars.-0x220]
+offset = 0x58
+name = "v189"
+type = "long"
+size = 0x8
+addr = 0x297cb8
+
+[stack_vars.-0x218]
+offset = 0x60
+name = "v190"
+type = "long"
+size = 0x8
+addr = 0x297cb8
+
+[stack_vars.-0x210]
+offset = 0x68
+name = "v191"
+type = "long"
+size = 0x8
+addr = 0x297cb8
+
+[stack_vars.-0x208]
+offset = 0x70
+name = "v192"
+type = "long"
+size = 0x8
+addr = 0x297cb8
+
+[stack_vars.-0x200]
+offset = 0x78
+name = "v193"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x1f8]
+offset = 0x80
+name = "v194"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x1f4]
+offset = 0x84
+name = "v195"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x1f0]
+offset = 0x88
+name = "v196"
+type = "long"
+size = 0x8
+addr = 0x297cb8
+
+[stack_vars.-0x1e8]
+offset = 0x90
+name = "v197"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x1e4]
+offset = 0x94
+name = "v198"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x1e0]
+offset = 0x98
+name = "v199"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x1dc]
+offset = 0x9c
+name = "v200"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x1d8]
+offset = 0xa0
+name = "v201"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x1d4]
+offset = 0xa4
+name = "v202"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x1d0]
+offset = 0xa8
+name = "v203"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x1c8]
+offset = 0xb0
+name = "v204"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x1c4]
+offset = 0xb4
+name = "v205"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x1c0]
+offset = 0xb8
+name = "v206"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x1b8]
+offset = 0xc0
+name = "v207"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x1b4]
+offset = 0xc4
+name = "v208"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x1b0]
+offset = 0xc8
+name = "v209"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x1a8]
+offset = 0xd0
+name = "v210"
+type = "int"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x1a0]
+offset = 0xd8
+name = "v211"
+type = "long"
+size = 0x8
+addr = 0x297cb8
+
+[stack_vars.-0x198]
+offset = 0xe0
+name = "v212"
+type = "int"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x194]
+offset = 0xe4
+name = "v213"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x190]
+offset = 0xe8
+name = "v214"
+type = "int"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x18c]
+offset = 0xec
+name = "v215"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x188]
+offset = 0xf0
+name = "v216"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x184]
+offset = 0xf4
+name = "v217"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x180]
+offset = 0xf8
+name = "v218"
+type = "long"
+size = 0x8
+addr = 0x297cb8
+
+[stack_vars.-0x178]
+offset = 0x100
+name = "v219"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x174]
+offset = 0x104
+name = "v220"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x170]
+offset = 0x108
+name = "v221"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x16c]
+offset = 0x10c
+name = "v222"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x168]
+offset = 0x110
+name = "v223"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x164]
+offset = 0x114
+name = "v224"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x160]
+offset = 0x118
+name = "v225"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x15c]
+offset = 0x11c
+name = "v226"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x158]
+offset = 0x120
+name = "v227"
+type = "__int128"
+size = 0x10
+addr = 0x297cb8
+
+[stack_vars.-0x148]
+offset = 0x130
+name = "v228"
+type = "__int128"
+size = 0x10
+addr = 0x297cb8
+
+[stack_vars.-0x128]
+offset = 0x150
+name = "v229"
+type = "__int128"
+size = 0x10
+addr = 0x297cb8
+
+[stack_vars.-0x118]
+offset = 0x160
+name = "v230"
+type = "int"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x110]
+offset = 0x168
+name = "v231"
+type = "long"
+size = 0x8
+addr = 0x297cb8
+
+[stack_vars.-0x108]
+offset = 0x170
+name = "v232"
+type = "float[4]"
+size = 0x10
+addr = 0x297cb8
+
+[stack_vars.-0xf8]
+offset = 0x180
+name = "v233"
+type = "float[4]"
+size = 0x10
+addr = 0x297cb8
+
+[stack_vars.-0xe8]
+offset = 0x190
+name = "v234"
+type = "float[4]"
+size = 0x10
+addr = 0x297cb8
+
+[stack_vars.-0xd8]
+offset = 0x1a0
+name = "v235"
+type = "float[6]"
+size = 0x18
+addr = 0x297cb8
+
+[stack_vars.-0xc0]
+offset = 0x1b8
+name = "v236"
+type = "long"
+size = 0x8
+addr = 0x297cb8
+
+[stack_vars.-0xb8]
+offset = 0x1c0
+name = "v237"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0xb4]
+offset = 0x1c4
+name = "v238"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0xb0]
+offset = 0x1c8
+name = "v239"
+type = "int"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0xac]
+offset = 0x1cc
+name = "v240"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x60]
+offset = 0x218
+name = "v241"
+type = "long"
+size = 0x8
+addr = 0x297cb8
+
+[stack_vars.-0x58]
+offset = 0x220
+name = "v242"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x50]
+offset = 0x228
+name = "v243"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x48]
+offset = 0x230
+name = "v244"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x40]
+offset = 0x238
+name = "v245"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x38]
+offset = 0x240
+name = "v246"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x30]
+offset = 0x248
+name = "v247"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x28]
+offset = 0x250
+name = "v248"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x20]
+offset = 0x258
+name = "v249"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x18]
+offset = 0x260
+name = "v250"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x10]
+offset = 0x268
+name = "v251"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.-0x8]
+offset = 0x270
+name = "v252"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[stack_vars.0x0]
+offset = 0x278
+name = "v253"
+type = "float"
+size = 0x4
+addr = 0x297cb8
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "long"
+size = 0x8
