@@ -1,0 +1,28 @@
+[metadata]
+addr = 0x109ea0
+size = 0x88
+last_change = 2023-11-15T17:20:33.537967Z
+
+[header]
+last_change = 2023-11-15T17:19:15.182190Z
+name = "lua_pushvalue"
+addr = 0x109ea0
+type = "long"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "long"
+size = 0x8
+
+[header.args.2]
+offset = 0x2
+name = "a3"
+type = "long"
+size = 0x8
