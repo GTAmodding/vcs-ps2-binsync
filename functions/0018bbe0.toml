@@ -1,4 +1,86 @@
 [metadata]
 addr = 0x18bbe0
 size = 0x7f0
-last_change = 2023-11-15T17:07:51.838974Z
+last_change = 2023-11-15T17:20:49.106836Z
+
+[header]
+last_change = 2023-11-15T17:19:26.704430Z
+name = "cMusicManager::DisplayRadioStationName"
+addr = 0x18bbe0
+type = "long"
+
+[stack_vars.-0x100]
+offset = 0x0
+name = "v39"
+type = "int[4]"
+size = 0x10
+addr = 0x18bbe0
+
+[stack_vars.-0xf0]
+offset = 0x10
+name = "v40"
+type = "char[30]"
+size = 0x1e
+addr = 0x18bbe0
+
+[stack_vars.-0xd2]
+offset = 0x2e
+name = "v41"
+type = "short"
+size = 0x2
+addr = 0x18bbe0
+
+[stack_vars.-0xd0]
+offset = 0x30
+name = "v42"
+type = "long"
+size = 0x8
+addr = 0x18bbe0
+
+[stack_vars.-0xc4]
+offset = 0x3c
+name = "v43"
+type = "int"
+size = 0x4
+addr = 0x18bbe0
+
+[stack_vars.-0x60]
+offset = 0xa0
+name = "v44"
+type = "short[8]"
+size = 0x10
+addr = 0x18bbe0
+
+[stack_vars.-0x50]
+offset = 0xb0
+name = "v45"
+type = "long[2]"
+size = 0x10
+addr = 0x18bbe0
+
+[stack_vars.-0x18]
+offset = 0xe8
+name = "v46"
+type = "long"
+size = 0x8
+addr = 0x18bbe0
+
+[stack_vars.-0x10]
+offset = 0xf0
+name = "v47"
+type = "float"
+size = 0x4
+addr = 0x18bbe0
+
+[stack_vars.-0x8]
+offset = 0xf8
+name = "v48"
+type = "float"
+size = 0x4
+addr = 0x18bbe0
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
