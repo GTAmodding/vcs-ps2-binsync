@@ -9,3 +9,9 @@ last_change = 2023-11-15T14:39:24.180696Z
 addr = 0x486128
 name = ""
 size = 0x4
+
+[0x49b480]
+last_change = 2023-11-15T14:39:45.915695Z
+addr = 0x49b480
+name = "jpt_13AC88"
+size = 0x38
