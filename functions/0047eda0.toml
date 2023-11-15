@@ -1,0 +1,22 @@
+[metadata]
+addr = 0x47eda0
+size = 0x48
+last_change = 2023-11-15T17:20:02.060323Z
+
+[header]
+last_change = 2023-11-15T17:20:01.638005Z
+name = "CPool_CVehicle__release"
+addr = 0x47eda0
+type = "long"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "_DWORD *"
+size = 0x4
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "int"
+size = 0x4
