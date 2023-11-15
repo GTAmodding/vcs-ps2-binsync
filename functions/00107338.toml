@@ -1,0 +1,22 @@
+[metadata]
+addr = 0x107338
+size = 0x6c
+last_change = 2023-11-15T17:21:30.736984Z
+
+[header]
+last_change = 2023-11-15T17:19:14.738718Z
+name = "_allocate_CElementGroupModelInfo_Pool"
+addr = 0x107338
+type = "long"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "long"
+size = 0x8
