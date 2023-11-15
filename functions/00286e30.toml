@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x286e30
+size = 0x28
+last_change = 2023-11-15T17:22:31.173752Z
+
+[header]
+last_change = 2023-11-15T17:19:41.848737Z
+name = "CPad::EnterFreeAim"
+addr = 0x286e30
+type = "short"
+
+[header.args.0]
+offset = 0x0
+name = "pad"
+type = "CPad *"
+size = 0x4
