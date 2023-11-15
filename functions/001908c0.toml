@@ -1,9 +1,270 @@
 [metadata]
 addr = 0x1908c0
 size = 0x1024
-last_change = 2023-11-15T17:07:20.977670Z
+last_change = 2023-11-15T17:23:08.468597Z
 
 [header]
-last_change = 2023-11-15T17:07:20.977670Z
-name = "_CWorld::ProcessLineOfSight"
+last_change = 2023-11-15T17:19:27.676449Z
+name = "CWorld::ProcessLineOfSight"
 addr = 0x1908c0
+type = "long"
+
+[stack_vars.-0x20]
+offset = 0x130
+name = "a9"
+type = "int"
+size = 0x4
+addr = 0x1908c0
+
+[stack_vars.-0x18]
+offset = 0x138
+name = "a10"
+type = "int"
+size = 0x4
+addr = 0x1908c0
+
+[stack_vars.-0x10]
+offset = 0x140
+name = "a11"
+type = "int"
+size = 0x4
+addr = 0x1908c0
+
+[stack_vars.-0x8]
+offset = 0x148
+name = "a12"
+type = "int"
+size = 0x4
+addr = 0x1908c0
+
+[stack_vars.0x0]
+offset = 0x150
+name = "a13"
+type = "int"
+size = 0x4
+addr = 0x1908c0
+
+[stack_vars.-0x120]
+offset = 0x30
+name = "v143"
+type = "char[32]"
+size = 0x20
+addr = 0x1908c0
+
+[stack_vars.-0x100]
+offset = 0x50
+name = "v144"
+type = "float"
+size = 0x4
+addr = 0x1908c0
+
+[stack_vars.-0xfc]
+offset = 0x54
+name = "v145"
+type = "int"
+size = 0x4
+addr = 0x1908c0
+
+[stack_vars.-0xf8]
+offset = 0x58
+name = "v146"
+type = "unsigned int"
+size = 0x4
+addr = 0x1908c0
+
+[stack_vars.-0xf4]
+offset = 0x5c
+name = "v147"
+type = "int"
+size = 0x4
+addr = 0x1908c0
+
+[stack_vars.-0xf0]
+offset = 0x60
+name = "v148"
+type = "int"
+size = 0x4
+addr = 0x1908c0
+
+[stack_vars.-0xec]
+offset = 0x64
+name = "v149"
+type = "int"
+size = 0x4
+addr = 0x1908c0
+
+[stack_vars.-0xe8]
+offset = 0x68
+name = "v150"
+type = "int"
+size = 0x4
+addr = 0x1908c0
+
+[stack_vars.-0xe4]
+offset = 0x6c
+name = "v151"
+type = "int"
+size = 0x4
+addr = 0x1908c0
+
+[stack_vars.-0xe0]
+offset = 0x70
+name = "v152"
+type = "int"
+size = 0x4
+addr = 0x1908c0
+
+[stack_vars.-0xdc]
+offset = 0x74
+name = "v153"
+type = "int"
+size = 0x4
+addr = 0x1908c0
+
+[stack_vars.-0xd8]
+offset = 0x78
+name = "v154"
+type = "int"
+size = 0x4
+addr = 0x1908c0
+
+[stack_vars.-0xd0]
+offset = 0x80
+name = "v155"
+type = "__int128"
+size = 0x10
+addr = 0x1908c0
+
+[stack_vars.-0xc0]
+offset = 0x90
+name = "v156"
+type = "__int128"
+size = 0x10
+addr = 0x1908c0
+
+[stack_vars.-0xb0]
+offset = 0xa0
+name = "v157"
+type = "__int128"
+size = 0x10
+addr = 0x1908c0
+
+[stack_vars.-0xa0]
+offset = 0xb0
+name = "v158"
+type = "__int128"
+size = 0x10
+addr = 0x1908c0
+
+[stack_vars.-0x90]
+offset = 0xc0
+name = "v159"
+type = "__int128"
+size = 0x10
+addr = 0x1908c0
+
+[stack_vars.-0x80]
+offset = 0xd0
+name = "v160"
+type = "__int128"
+size = 0x10
+addr = 0x1908c0
+
+[stack_vars.-0x70]
+offset = 0xe0
+name = "v161"
+type = "__int128"
+size = 0x10
+addr = 0x1908c0
+
+[stack_vars.-0x60]
+offset = 0xf0
+name = "v162"
+type = "__int128"
+size = 0x10
+addr = 0x1908c0
+
+[stack_vars.-0x50]
+offset = 0x100
+name = "v163"
+type = "__int128"
+size = 0x10
+addr = 0x1908c0
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "long"
+size = 0x8
+
+[header.args.2]
+offset = 0x2
+name = "a3"
+type = "int"
+size = 0x4
+
+[header.args.3]
+offset = 0x3
+name = "a4"
+type = "unsigned int"
+size = 0x4
+
+[header.args.4]
+offset = 0x4
+name = "a5"
+type = "int"
+size = 0x4
+
+[header.args.5]
+offset = 0x5
+name = "a6"
+type = "int"
+size = 0x4
+
+[header.args.6]
+offset = 0x6
+name = "a7"
+type = "int"
+size = 0x4
+
+[header.args.7]
+offset = 0x7
+name = "a8"
+type = "int"
+size = 0x4
+
+[header.args.8]
+offset = 0x8
+name = "a9"
+type = "int"
+size = 0x4
+
+[header.args.9]
+offset = 0x9
+name = "a10"
+type = "int"
+size = 0x4
+
+[header.args.10]
+offset = 0xa
+name = "a11"
+type = "int"
+size = 0x4
+
+[header.args.11]
+offset = 0xb
+name = "a12"
+type = "int"
+size = 0x4
+
+[header.args.12]
+offset = 0xc
+name = "a13"
+type = "int"
+size = 0x4
