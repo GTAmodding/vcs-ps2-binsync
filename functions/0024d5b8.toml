@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x24d5b8
+size = 0xa0
+last_change = 2023-11-15T17:21:57.472506Z
+
+[header]
+last_change = 2023-11-15T17:19:32.754293Z
+name = "CGameLogic::PassTime"
+addr = 0x24d5b8
+type = "long"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
