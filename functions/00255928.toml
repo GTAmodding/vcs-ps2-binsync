@@ -4,5 +4,6 @@ size = 0x20
 last_change = 2023-11-15T17:05:39.714478Z
 
 [header]
+last_change = 2023-11-15T17:05:39.714478Z
 name = "_CRunningScript::AddScriptToList"
 addr = 0x255928
