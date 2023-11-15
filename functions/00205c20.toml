@@ -1,0 +1,28 @@
+[metadata]
+addr = 0x205c20
+size = 0x198
+last_change = 2023-11-15T17:21:22.841396Z
+
+[header]
+last_change = 2023-11-15T17:19:29.085271Z
+name = "CPed::SetFlee"
+addr = 0x205c20
+type = "void"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "long"
+size = 0x8
+
+[header.args.2]
+offset = 0x2
+name = "a3"
+type = "long"
+size = 0x8
