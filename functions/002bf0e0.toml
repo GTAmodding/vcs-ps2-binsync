@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x2bf0e0
+size = 0x5c
+last_change = 2023-11-15T17:25:02.783573Z
+
+[header]
+last_change = 2023-11-15T17:19:51.624966Z
+name = "CFires__extinguishAllFires"
+addr = 0x2bf0e0
+type = "long"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
