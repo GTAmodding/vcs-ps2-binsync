@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x1a7ea0
+size = 0x94
+last_change = 2023-11-15T17:23:16.675698Z
+
+[header]
+last_change = 2023-11-15T17:19:27.754049Z
+name = "__isBmxModel"
+addr = 0x1a7ea0
+type = "long"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
