@@ -1,0 +1,62 @@
+[metadata]
+addr = 0x347d20
+size = 0x154
+last_change = 2023-11-15T17:24:44.668705Z
+
+[header]
+last_change = 2023-11-15T17:19:53.886815Z
+name = "CPhysical::ApplyMoveForce"
+addr = 0x347d20
+type = "long"
+
+[stack_vars.-0x28]
+offset = 0x10
+name = "v22"
+type = "float"
+size = 0x4
+addr = 0x347d20
+
+[stack_vars.-0x24]
+offset = 0x14
+name = "v23"
+type = "float"
+size = 0x4
+addr = 0x347d20
+
+[stack_vars.-0x20]
+offset = 0x18
+name = "v24"
+type = "float"
+size = 0x4
+addr = 0x347d20
+
+[stack_vars.-0x1c]
+offset = 0x1c
+name = "v25"
+type = "float"
+size = 0x4
+addr = 0x347d20
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "float"
+size = 0x4
+
+[header.args.2]
+offset = 0x2
+name = "a3"
+type = "float"
+size = 0x4
+
+[header.args.3]
+offset = 0x3
+name = "a4"
+type = "float"
+size = 0x4
