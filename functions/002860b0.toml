@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x2860b0
+size = 0x3c
+last_change = 2023-11-15T17:20:42.302167Z
+
+[header]
+last_change = 2023-11-15T17:19:37.557393Z
+name = "CPad::GetExitVehicle"
+addr = 0x2860b0
+type = "short"
+
+[header.args.0]
+offset = 0x0
+name = "pad"
+type = "CPad *"
+size = 0x4
