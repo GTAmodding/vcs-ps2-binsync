@@ -1,0 +1,22 @@
+[metadata]
+addr = 0x109e80
+size = 0x20
+last_change = 2023-11-15T17:20:17.358867Z
+
+[header]
+last_change = 2023-11-15T17:19:15.088662Z
+name = "lua_pushinteger"
+addr = 0x109e80
+type = "long"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "float"
+size = 0x4
