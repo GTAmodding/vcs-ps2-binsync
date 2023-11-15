@@ -1,4 +1,9 @@
 [metadata]
 addr = 0x1908c0
 size = 0x1024
-last_change = 2023-11-15T17:07:16.953603Z
+last_change = 2023-11-15T17:07:20.977670Z
+
+[header]
+last_change = 2023-11-15T17:07:20.977670Z
+name = "_CWorld::ProcessLineOfSight"
+addr = 0x1908c0
