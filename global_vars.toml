@@ -10,6 +10,12 @@ addr = 0x486128
 name = ""
 size = 0x4
 
+[0x48a140]
+last_change = 2023-11-15T14:42:59.774362Z
+addr = 0x48a140
+name = ""
+size = 0x4
+
 [0x48a144]
 last_change = 2023-11-15T14:39:53.336673Z
 addr = 0x48a144
