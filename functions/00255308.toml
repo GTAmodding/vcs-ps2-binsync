@@ -1,0 +1,58 @@
+[metadata]
+addr = 0x255308
+size = 0x5e4
+last_change = 2023-11-15T17:23:07.756375Z
+
+[header]
+last_change = 2023-11-15T17:19:33.341091Z
+name = "CTheScripts::Init"
+addr = 0x255308
+type = "long"
+
+[stack_vars.-0x6c]
+offset = 0xc
+name = "v37"
+type = "int"
+size = 0x4
+addr = 0x255308
+
+[stack_vars.-0x68]
+offset = 0x10
+name = "v38"
+type = "char[4]"
+size = 0x4
+addr = 0x255308
+
+[stack_vars.-0x64]
+offset = 0x14
+name = "v39"
+type = "char[4]"
+size = 0x4
+addr = 0x255308
+
+[stack_vars.-0x60]
+offset = 0x18
+name = "v40"
+type = "char[4]"
+size = 0x4
+addr = 0x255308
+
+[stack_vars.-0x5c]
+offset = 0x1c
+name = "v41"
+type = "int"
+size = 0x4
+addr = 0x255308
+
+[stack_vars.-0x58]
+offset = 0x20
+name = "v42"
+type = "int"
+size = 0x4
+addr = 0x255308
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
