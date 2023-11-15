@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x286d28
+size = 0x50
+last_change = 2023-11-15T17:22:40.621591Z
+
+[header]
+last_change = 2023-11-15T17:19:41.307226Z
+name = "CPadX__MenuEnter"
+addr = 0x286d28
+type = "long"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "CPad *"
+size = 0x4
