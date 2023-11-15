@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x285dd0
+size = 0x34
+last_change = 2023-11-15T17:25:01.752382Z
+
+[header]
+last_change = 2023-11-15T17:19:36.538303Z
+name = "CPad::GetLookBehindForPed"
+addr = 0x285dd0
+type = "short"
+
+[header.args.0]
+offset = 0x0
+name = "pad"
+type = "CPad *"
+size = 0x4
