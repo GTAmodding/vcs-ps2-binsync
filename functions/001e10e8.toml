@@ -1,0 +1,17 @@
+[metadata]
+addr = 0x1e10e8
+size = 0x4b0
+last_change = 2023-11-15T17:22:50.854604Z
+
+[header]
+last_change = 2023-11-15T17:19:28.055706Z
+name = "CPickups::RenderPickUpText"
+addr = 0x1e10e8
+type = "long"
+
+[stack_vars.-0x40]
+offset = 0x0
+name = "v22"
+type = "int[4]"
+size = 0x10
+addr = 0x1e10e8
