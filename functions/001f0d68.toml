@@ -1,0 +1,40 @@
+[metadata]
+addr = 0x1f0d68
+size = 0xe0
+last_change = 2023-11-15T17:23:26.416501Z
+
+[header]
+last_change = 2023-11-15T17:19:28.828033Z
+name = "CPed::SetLookFlag"
+addr = 0x1f0d68
+type = "unsigned long"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "long"
+size = 0x8
+
+[header.args.2]
+offset = 0x2
+name = "a3"
+type = "char"
+size = 0x1
+
+[header.args.3]
+offset = 0x3
+name = "a4"
+type = "long"
+size = 0x8
+
+[header.args.4]
+offset = 0x4
+name = "a5"
+type = "long"
+size = 0x8
