@@ -1,0 +1,10 @@
+[metadata]
+addr = 0x102d18
+size = 0x20
+last_change = 2023-11-15T17:23:45.187957Z
+
+[header]
+last_change = 2023-11-15T17:19:14.557006Z
+name = "_init_DummyPool"
+addr = 0x102d18
+type = "long"
