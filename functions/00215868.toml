@@ -1,0 +1,48 @@
+[metadata]
+addr = 0x215868
+size = 0xc0
+last_change = 2023-11-15T17:20:58.486951Z
+
+[header]
+last_change = 2023-11-15T17:19:29.176409Z
+name = "CAnimManager::BlendAnimation"
+addr = 0x215868
+type = "long"
+
+[stack_vars.-0x30]
+offset = 0x0
+name = "v10"
+type = "int"
+size = 0x4
+addr = 0x215868
+
+[stack_vars.-0x2c]
+offset = 0x4
+name = "v11"
+type = "int"
+size = 0x4
+addr = 0x215868
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "long"
+size = 0x8
+
+[header.args.2]
+offset = 0x2
+name = "a3"
+type = "int"
+size = 0x4
+
+[header.args.3]
+offset = 0x3
+name = "a4"
+type = "int"
+size = 0x4
