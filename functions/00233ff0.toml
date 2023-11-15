@@ -1,0 +1,36 @@
+[metadata]
+addr = 0x233ff0
+size = 0x3f0
+last_change = 2023-11-15T17:20:10.207718Z
+
+[header]
+last_change = 2023-11-15T17:19:31.114654Z
+name = "CPlayerPed::PlayerControlM16"
+addr = 0x233ff0
+type = "long"
+
+[stack_vars.-0x50]
+offset = 0x0
+name = "v20"
+type = "float[11]"
+size = 0x2c
+addr = 0x233ff0
+
+[stack_vars.-0x24]
+offset = 0x2c
+name = "v21"
+type = "float"
+size = 0x4
+addr = 0x233ff0
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "long"
+size = 0x8
