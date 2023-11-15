@@ -1,0 +1,86 @@
+[metadata]
+addr = 0x230640
+size = 0x143c
+last_change = 2023-11-15T17:21:05.838473Z
+
+[header]
+last_change = 2023-11-15T17:19:29.969208Z
+name = "CPlayerPed::ProcessControl"
+addr = 0x230640
+type = "long"
+
+[stack_vars.-0x68]
+offset = 0x10
+name = "v98"
+type = "float"
+size = 0x4
+addr = 0x230640
+
+[stack_vars.-0x64]
+offset = 0x14
+name = "v99"
+type = "float"
+size = 0x4
+addr = 0x230640
+
+[stack_vars.-0x60]
+offset = 0x18
+name = "v100"
+type = "float"
+size = 0x4
+addr = 0x230640
+
+[stack_vars.-0x5c]
+offset = 0x1c
+name = "v101"
+type = "float"
+size = 0x4
+addr = 0x230640
+
+[stack_vars.-0x58]
+offset = 0x20
+name = "v102"
+type = "float[4]"
+size = 0x10
+addr = 0x230640
+
+[stack_vars.-0x48]
+offset = 0x30
+name = "v103"
+type = "char[4]"
+size = 0x4
+addr = 0x230640
+
+[stack_vars.-0x44]
+offset = 0x34
+name = "v104"
+type = "float"
+size = 0x4
+addr = 0x230640
+
+[stack_vars.-0x18]
+offset = 0x60
+name = "v105"
+type = "long"
+size = 0x8
+addr = 0x230640
+
+[stack_vars.-0x8]
+offset = 0x70
+name = "v106"
+type = "float"
+size = 0x4
+addr = 0x230640
+
+[stack_vars.0x0]
+offset = 0x78
+name = "v107"
+type = "float"
+size = 0x4
+addr = 0x230640
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
