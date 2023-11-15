@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x4716a8
+size = 0x94
+last_change = 2023-11-15T17:24:12.629039Z
+
+[header]
+last_change = 2023-11-15T17:20:00.346324Z
+name = "CPool_CVehicle__allocate"
+addr = 0x4716a8
+type = "long"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "_DWORD *"
+size = 0x4
