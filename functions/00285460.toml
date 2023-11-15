@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x285460
+size = 0xb8
+last_change = 2023-11-15T17:25:25.639938Z
+
+[header]
+last_change = 2023-11-15T17:19:35.597374Z
+name = "CPad::GetSteeringUpDown"
+addr = 0x285460
+type = "short"
+
+[header.args.0]
+offset = 0x0
+name = "pad"
+type = "CPad *"
+size = 0x4
