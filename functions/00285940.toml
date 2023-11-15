@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x285940
+size = 0x16c
+last_change = 2023-11-15T17:21:06.246780Z
+
+[header]
+last_change = 2023-11-15T17:19:36.147709Z
+name = "CPad::GetLookLeft"
+addr = 0x285940
+type = "short"
+
+[header.args.0]
+offset = 0x0
+name = "pad"
+type = "CPad *"
+size = 0x4
