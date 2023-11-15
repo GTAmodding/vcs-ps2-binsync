@@ -1,0 +1,22 @@
+[metadata]
+addr = 0x102cc0
+size = 0x54
+last_change = 2023-11-15T17:22:13.610341Z
+
+[header]
+last_change = 2023-11-15T17:19:14.476818Z
+name = "_allocate_CDummyObject_Pool"
+addr = 0x102cc0
+type = "long"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "long"
+size = 0x8
