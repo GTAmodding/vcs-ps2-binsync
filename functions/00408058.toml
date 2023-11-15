@@ -1,0 +1,10 @@
+[metadata]
+addr = 0x408058
+size = 0x60
+last_change = 2023-11-15T17:20:01.765079Z
+
+[header]
+last_change = 2023-11-15T17:19:59.468018Z
+name = "base::Random"
+addr = 0x408058
+type = "long"
