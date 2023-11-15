@@ -1,0 +1,10 @@
+[metadata]
+addr = 0x255290
+size = 0x78
+last_change = 2023-11-15T17:23:06.908027Z
+
+[header]
+last_change = 2023-11-15T17:19:33.163071Z
+name = "CTheScripts::Shutdown"
+addr = 0x255290
+type = "void"
