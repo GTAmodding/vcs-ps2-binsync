@@ -1,4 +1,9 @@
 [metadata]
 addr = 0x188a20
 size = 0x29c
-last_change = 2023-11-15T17:06:58.897341Z
+last_change = 2023-11-15T17:07:05.750457Z
+
+[header]
+last_change = 2023-11-15T17:07:05.750457Z
+name = "_cMusicManager::ResetMusicAfterReload"
+addr = 0x188a20
