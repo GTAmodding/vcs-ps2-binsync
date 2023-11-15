@@ -1,0 +1,22 @@
+[metadata]
+addr = 0x1f1358
+size = 0x78
+last_change = 2023-11-15T17:21:47.828347Z
+
+[header]
+last_change = 2023-11-15T17:19:28.910579Z
+name = "CPed::SetAimFlag"
+addr = 0x1f1358
+type = "long"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "long"
+size = 0x8
