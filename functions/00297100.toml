@@ -1,0 +1,100 @@
+[metadata]
+addr = 0x297100
+size = 0xac4
+last_change = 2023-11-15T17:21:56.276584Z
+
+[header]
+last_change = 2023-11-15T17:19:44.184517Z
+name = "CCam::Process_FlyBy"
+addr = 0x297100
+type = "long"
+
+[stack_vars.-0xa0]
+offset = 0x0
+name = "v48"
+type = "float"
+size = 0x4
+addr = 0x297100
+
+[stack_vars.-0x9c]
+offset = 0x4
+name = "v50"
+type = "float"
+size = 0x4
+addr = 0x297100
+
+[stack_vars.-0x98]
+offset = 0x8
+name = "v52"
+type = "float"
+size = 0x4
+addr = 0x297100
+
+[stack_vars.-0x8c]
+offset = 0x14
+name = "v53"
+type = "float"
+size = 0x4
+addr = 0x297100
+
+[stack_vars.-0x88]
+offset = 0x18
+name = "v56"
+type = "float"
+size = 0x4
+addr = 0x297100
+
+[stack_vars.-0x84]
+offset = 0x1c
+name = "v57"
+type = "int"
+size = 0x4
+addr = 0x297100
+
+[stack_vars.-0x7c]
+offset = 0x24
+name = "v59"
+type = "float"
+size = 0x4
+addr = 0x297100
+
+[stack_vars.-0x74]
+offset = 0x2c
+name = "v60"
+type = "int"
+size = 0x4
+addr = 0x297100
+
+[stack_vars.-0x70]
+offset = 0x30
+name = "v61"
+type = "float[4]"
+size = 0x10
+addr = 0x297100
+
+[stack_vars.-0x18]
+offset = 0x88
+name = "v62"
+type = "long"
+size = 0x8
+addr = 0x297100
+
+[stack_vars.-0x10]
+offset = 0x90
+name = "v63"
+type = "float"
+size = 0x4
+addr = 0x297100
+
+[stack_vars.-0x8]
+offset = 0x98
+name = "v64"
+type = "float"
+size = 0x4
+addr = 0x297100
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
