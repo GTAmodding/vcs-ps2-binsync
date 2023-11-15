@@ -16,12 +16,6 @@ addr = 0x48a144
 name = ""
 size = 0x4
 
-[0x48a148]
-last_change = 2023-11-15T14:41:47.929951Z
-addr = 0x48a148
-name = ""
-size = 0x4
-
 [0x48a14c]
 last_change = 2023-11-15T14:40:00.960723Z
 addr = 0x48a14c
