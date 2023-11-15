@@ -1,0 +1,58 @@
+[metadata]
+addr = 0x231c20
+size = 0xe1c
+last_change = 2023-11-15T17:21:23.276181Z
+
+[header]
+last_change = 2023-11-15T17:19:30.383536Z
+name = "CPlayerPed::SetRealMoveAnim"
+addr = 0x231c20
+type = "unsigned long"
+
+[stack_vars.-0x68]
+offset = 0x10
+name = "v56"
+type = "float"
+size = 0x4
+addr = 0x231c20
+
+[stack_vars.-0x64]
+offset = 0x14
+name = "v57"
+type = "float"
+size = 0x4
+addr = 0x231c20
+
+[stack_vars.-0x60]
+offset = 0x18
+name = "v58"
+type = "float"
+size = 0x4
+addr = 0x231c20
+
+[stack_vars.-0x5c]
+offset = 0x1c
+name = "v59"
+type = "float"
+size = 0x4
+addr = 0x231c20
+
+[stack_vars.-0x58]
+offset = 0x20
+name = "v60"
+type = "BOOL"
+size = 0x4
+addr = 0x231c20
+
+[stack_vars.-0x54]
+offset = 0x24
+name = "v61"
+type = "int"
+size = 0x4
+addr = 0x231c20
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
