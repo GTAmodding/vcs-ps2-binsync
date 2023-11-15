@@ -1,4 +1,9 @@
 [metadata]
 addr = 0x1790f0
 size = 0x90
-last_change = 2023-11-15T17:06:43.877658Z
+last_change = 2023-11-15T17:06:50.727760Z
+
+[header]
+last_change = 2023-11-15T17:06:50.727760Z
+name = "_CFileMgr::SetDir"
+addr = 0x1790f0
