@@ -4,3 +4,10 @@ addr = 0x13b9d0
 func_addr = 0x13a0a0
 comment = "jumptable 0013AC88 case 2\n"
 decompiled = false
+
+[0x13bea0]
+last_change = 2023-11-15T14:41:40.165651Z
+addr = 0x13bea0
+func_addr = 0x13a0a0
+comment = "jumptable 0013AC88 case 5\n"
+decompiled = false
