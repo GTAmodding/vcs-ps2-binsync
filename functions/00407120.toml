@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x407120
+size = 0x1c
+last_change = 2023-11-15T17:20:17.642988Z
+
+[header]
+last_change = 2023-11-15T17:19:59.253854Z
+name = "CWeaponInfo::GetWeaponInfo"
+addr = 0x407120
+type = "long"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
