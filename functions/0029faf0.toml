@@ -1,0 +1,323 @@
+[metadata]
+addr = 0x29faf0
+size = 0x22ec
+last_change = 2023-11-15T17:25:15.038591Z
+
+[header]
+last_change = 2023-11-15T17:19:49.703598Z
+name = "CCam::Process_FollowCar_SA"
+addr = 0x29faf0
+type = "long"
+
+[stack_vars.-0x150]
+offset = 0x30
+name = "v282"
+type = "float"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0x14c]
+offset = 0x34
+name = "v283"
+type = "float"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0x148]
+offset = 0x38
+name = "v284"
+type = "float"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0x144]
+offset = 0x3c
+name = "v285"
+type = "float"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0x140]
+offset = 0x40
+name = "v286"
+type = "float"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0x13c]
+offset = 0x44
+name = "v287"
+type = "float"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0x138]
+offset = 0x48
+name = "v288"
+type = "float"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0x134]
+offset = 0x4c
+name = "v289"
+type = "float"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0x130]
+offset = 0x50
+name = "v290"
+type = "float"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0x12c]
+offset = 0x54
+name = "v291"
+type = "float"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0x128]
+offset = 0x58
+name = "v292"
+type = "float"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0x124]
+offset = 0x5c
+name = "v293"
+type = "float"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0x120]
+offset = 0x60
+name = "v294"
+type = "float"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0x11c]
+offset = 0x64
+name = "v295"
+type = "float"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0x118]
+offset = 0x68
+name = "v296"
+type = "float"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0x114]
+offset = 0x6c
+name = "v297"
+type = "float"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0x110]
+offset = 0x70
+name = "v298"
+type = "float"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0x10c]
+offset = 0x74
+name = "v299"
+type = "float"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0x108]
+offset = 0x78
+name = "v300"
+type = "float"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0x104]
+offset = 0x7c
+name = "v301"
+type = "float"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0xd0]
+offset = 0xb0
+name = "v302"
+type = "float"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0xcc]
+offset = 0xb4
+name = "v303"
+type = "float"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0xc8]
+offset = 0xb8
+name = "v304"
+type = "float"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0xc4]
+offset = 0xbc
+name = "v305"
+type = "float"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0xc0]
+offset = 0xc0
+name = "v306"
+type = "int"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0xbc]
+offset = 0xc4
+name = "v307"
+type = "int"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0xb8]
+offset = 0xc8
+name = "v308"
+type = "float *"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0xb4]
+offset = 0xcc
+name = "pad"
+type = "CPad *"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0xb0]
+offset = 0xd0
+name = "v310"
+type = "int"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0xac]
+offset = 0xd4
+name = "v311"
+type = "int"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0xa8]
+offset = 0xd8
+name = "v312"
+type = "float *"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0xa4]
+offset = 0xdc
+name = "v313"
+type = "int"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0x58]
+offset = 0x128
+name = "v314"
+type = "long"
+size = 0x8
+addr = 0x29faf0
+
+[stack_vars.-0x50]
+offset = 0x130
+name = "v315"
+type = "float"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0x48]
+offset = 0x138
+name = "v316"
+type = "float"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0x40]
+offset = 0x140
+name = "v317"
+type = "float"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0x38]
+offset = 0x148
+name = "v318"
+type = "float"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0x30]
+offset = 0x150
+name = "v319"
+type = "float"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0x28]
+offset = 0x158
+name = "v320"
+type = "float"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0x20]
+offset = 0x160
+name = "v321"
+type = "float"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0x18]
+offset = 0x168
+name = "v322"
+type = "float"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0x10]
+offset = 0x170
+name = "v323"
+type = "float"
+size = 0x4
+addr = 0x29faf0
+
+[stack_vars.-0x8]
+offset = 0x178
+name = "v324"
+type = "float"
+size = 0x4
+addr = 0x29faf0
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "float *"
+size = 0x4
