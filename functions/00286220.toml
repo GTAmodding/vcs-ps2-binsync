@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x286220
+size = 0x70
+last_change = 2023-11-15T17:23:52.898984Z
+
+[header]
+last_change = 2023-11-15T17:19:38.143458Z
+name = "CPad::CycleCameraModeUpJustDown"
+addr = 0x286220
+type = "short"
+
+[header.args.0]
+offset = 0x0
+name = "pad"
+type = "CPad *"
+size = 0x4
