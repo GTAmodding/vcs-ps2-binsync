@@ -1,8 +1,9 @@
 [metadata]
 addr = 0x255928
 size = 0x20
-last_change = 2023-11-15T17:05:39.714478Z
+last_change = 2023-11-15T17:10:12.135581Z
 
 [header]
-name = "_CRunningScript::AddScriptToList"
+last_change = 2023-11-15T17:10:12.135581Z
+name = "CRunningScript::AddScriptToList"
 addr = 0x255928
