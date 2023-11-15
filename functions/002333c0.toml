@@ -1,0 +1,29 @@
+[metadata]
+addr = 0x2333c0
+size = 0x364
+last_change = 2023-11-15T17:24:21.346570Z
+
+[header]
+last_change = 2023-11-15T17:19:30.790399Z
+name = "CPlayerPed::PlayIdleAnimations"
+addr = 0x2333c0
+type = "long"
+
+[stack_vars.-0x78]
+offset = 0x0
+name = "v24"
+type = "long[6]"
+size = 0x30
+addr = 0x2333c0
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "long"
+size = 0x8
