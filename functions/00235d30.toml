@@ -1,0 +1,197 @@
+[metadata]
+addr = 0x235d30
+size = 0x124c
+last_change = 2023-11-15T17:24:01.913856Z
+
+[header]
+last_change = 2023-11-15T17:19:32.360472Z
+name = "CPlayerPed::ProcessPlayerWeapon"
+addr = 0x235d30
+type = "long"
+
+[stack_vars.-0xd8]
+offset = 0x0
+name = "v96"
+type = "float"
+size = 0x4
+addr = 0x235d30
+
+[stack_vars.-0xd4]
+offset = 0x4
+name = "v97"
+type = "float"
+size = 0x4
+addr = 0x235d30
+
+[stack_vars.-0xd0]
+offset = 0x8
+name = "v98"
+type = "float"
+size = 0x4
+addr = 0x235d30
+
+[stack_vars.-0xcc]
+offset = 0xc
+name = "v99"
+type = "float"
+size = 0x4
+addr = 0x235d30
+
+[stack_vars.-0xc8]
+offset = 0x10
+name = "v100"
+type = "float"
+size = 0x4
+addr = 0x235d30
+
+[stack_vars.-0xc4]
+offset = 0x14
+name = "v101"
+type = "float"
+size = 0x4
+addr = 0x235d30
+
+[stack_vars.-0xc0]
+offset = 0x18
+name = "v102"
+type = "float"
+size = 0x4
+addr = 0x235d30
+
+[stack_vars.-0xbc]
+offset = 0x1c
+name = "v103"
+type = "float"
+size = 0x4
+addr = 0x235d30
+
+[stack_vars.-0xb8]
+offset = 0x20
+name = "v104"
+type = "float"
+size = 0x4
+addr = 0x235d30
+
+[stack_vars.-0xb4]
+offset = 0x24
+name = "v105"
+type = "float"
+size = 0x4
+addr = 0x235d30
+
+[stack_vars.-0xb0]
+offset = 0x28
+name = "v106"
+type = "float"
+size = 0x4
+addr = 0x235d30
+
+[stack_vars.-0xac]
+offset = 0x2c
+name = "v107"
+type = "float"
+size = 0x4
+addr = 0x235d30
+
+[stack_vars.-0xa8]
+offset = 0x30
+name = "v108"
+type = "float"
+size = 0x4
+addr = 0x235d30
+
+[stack_vars.-0xa4]
+offset = 0x34
+name = "v109"
+type = "float"
+size = 0x4
+addr = 0x235d30
+
+[stack_vars.-0xa0]
+offset = 0x38
+name = "v110"
+type = "float"
+size = 0x4
+addr = 0x235d30
+
+[stack_vars.-0x9c]
+offset = 0x3c
+name = "v111"
+type = "float"
+size = 0x4
+addr = 0x235d30
+
+[stack_vars.-0x98]
+offset = 0x40
+name = "v112"
+type = "float"
+size = 0x4
+addr = 0x235d30
+
+[stack_vars.-0x94]
+offset = 0x44
+name = "v113"
+type = "float"
+size = 0x4
+addr = 0x235d30
+
+[stack_vars.-0x90]
+offset = 0x48
+name = "v114"
+type = "float"
+size = 0x4
+addr = 0x235d30
+
+[stack_vars.-0x8c]
+offset = 0x4c
+name = "v115"
+type = "float"
+size = 0x4
+addr = 0x235d30
+
+[stack_vars.-0x58]
+offset = 0x80
+name = "v116"
+type = "char[4]"
+size = 0x4
+addr = 0x235d30
+
+[stack_vars.-0x54]
+offset = 0x84
+name = "v117"
+type = "char[12]"
+size = 0xc
+addr = 0x235d30
+
+[stack_vars.-0x48]
+offset = 0x90
+name = "v118"
+type = "char[4]"
+size = 0x4
+addr = 0x235d30
+
+[stack_vars.-0x44]
+offset = 0x94
+name = "v119"
+type = "char[4]"
+size = 0x4
+addr = 0x235d30
+
+[stack_vars.-0x40]
+offset = 0x98
+name = "v120"
+type = "char[8]"
+size = 0x8
+addr = 0x235d30
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "long"
+size = 0x8
