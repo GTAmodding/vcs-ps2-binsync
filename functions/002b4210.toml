@@ -1,0 +1,22 @@
+[metadata]
+addr = 0x2b4210
+size = 0x2b4
+last_change = 2023-11-15T17:25:05.710524Z
+
+[header]
+last_change = 2023-11-15T17:19:50.827943Z
+name = "CPopulation__UpdatePedCount"
+addr = 0x2b4210
+type = "long"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "unsigned char"
+size = 0x1
