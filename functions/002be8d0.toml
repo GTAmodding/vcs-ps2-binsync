@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x2be8d0
+size = 0x124
+last_change = 2023-11-15T17:21:14.096597Z
+
+[header]
+last_change = 2023-11-15T17:19:51.428873Z
+name = "CFire__extinguish"
+addr = 0x2be8d0
+type = "long"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "unsigned char *"
+size = 0x4
