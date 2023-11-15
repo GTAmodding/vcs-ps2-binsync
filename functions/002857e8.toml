@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x2857e8
+size = 0x70
+last_change = 2023-11-15T17:25:13.721963Z
+
+[header]
+last_change = 2023-11-15T17:19:36.020579Z
+name = "CPad::GetPedWalkUpDown"
+addr = 0x2857e8
+type = "short"
+
+[header.args.0]
+offset = 0x0
+name = "pad"
+type = "CPad *"
+size = 0x4
