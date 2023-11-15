@@ -1,0 +1,57 @@
+[metadata]
+addr = 0x296dc8
+size = 0x338
+last_change = 2023-11-15T17:25:34.874723Z
+
+[header]
+last_change = 2023-11-15T17:19:43.812039Z
+name = "CCam::Process_Fixed"
+addr = 0x296dc8
+type = "long"
+
+[stack_vars.-0x40]
+offset = 0x0
+name = "v33"
+type = "float"
+size = 0x4
+addr = 0x296dc8
+
+[stack_vars.-0x3c]
+offset = 0x4
+name = "v35"
+type = "float"
+size = 0x4
+addr = 0x296dc8
+
+[stack_vars.-0x38]
+offset = 0x8
+name = "v37"
+type = "float"
+size = 0x4
+addr = 0x296dc8
+
+[stack_vars.-0x34]
+offset = 0xc
+name = "v38"
+type = "int"
+size = 0x4
+addr = 0x296dc8
+
+[stack_vars.-0x14]
+offset = 0x2c
+name = "v39"
+type = "int"
+size = 0x4
+addr = 0x296dc8
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "unsigned int"
+size = 0x4
