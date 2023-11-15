@@ -1,0 +1,22 @@
+[metadata]
+addr = 0x203a70
+size = 0x24
+last_change = 2023-11-15T17:22:13.003694Z
+
+[header]
+last_change = 2023-11-15T17:19:28.985739Z
+name = "CPed::SetLookTimer"
+addr = 0x203a70
+type = "long"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "int"
+size = 0x4
