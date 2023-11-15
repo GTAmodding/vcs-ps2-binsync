@@ -1,0 +1,22 @@
+[metadata]
+addr = 0x3e0820
+size = 0x64
+last_change = 2023-11-15T17:24:32.520006Z
+
+[header]
+last_change = 2023-11-15T17:19:55.672682Z
+name = "CSprite2d::SetMaskVertices"
+addr = 0x3e0820
+type = "void"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "float *"
+size = 0x4
