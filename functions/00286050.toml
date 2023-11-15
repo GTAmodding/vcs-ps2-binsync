@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x286050
+size = 0x4c
+last_change = 2023-11-15T17:24:31.495869Z
+
+[header]
+last_change = 2023-11-15T17:19:37.445293Z
+name = "CPad::JumpJustDown"
+addr = 0x286050
+type = "short"
+
+[header.args.0]
+offset = 0x0
+name = "pad"
+type = "CPad *"
+size = 0x4
