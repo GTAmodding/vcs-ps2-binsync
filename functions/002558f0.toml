@@ -1,4 +1,9 @@
 [metadata]
 addr = 0x2558f0
 size = 0x34
-last_change = 2023-11-15T17:05:31.864876Z
+last_change = 2023-11-15T17:05:32.814283Z
+
+[header]
+last_change = 2023-11-15T17:05:32.814283Z
+name = "_CRunningScript::RemoveScriptFromList"
+addr = 0x2558f0
