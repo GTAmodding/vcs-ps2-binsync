@@ -4,6 +4,5 @@ size = 0x6ac
 last_change = 2023-11-15T17:06:43.648141Z
 
 [header]
-last_change = 2023-11-15T17:06:43.648141Z
 name = "_CSpecialFX::Render2DFXs"
 addr = 0x1676c8
