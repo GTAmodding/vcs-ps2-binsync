@@ -1,0 +1,22 @@
+[metadata]
+addr = 0x30a468
+size = 0xb8
+last_change = 2023-11-15T17:24:52.902527Z
+
+[header]
+last_change = 2023-11-15T17:19:53.478609Z
+name = "CPed::ClearDuck"
+addr = 0x30a468
+type = "unsigned long"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "long"
+size = 0x8
