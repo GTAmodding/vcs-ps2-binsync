@@ -1,0 +1,176 @@
+[metadata]
+addr = 0x39ff48
+size = 0x460
+last_change = 2023-11-15T17:24:41.292009Z
+
+[header]
+last_change = 2023-11-15T17:19:55.229230Z
+name = "CSprite::RenderBufferedOneXLUSprite"
+addr = 0x39ff48
+type = "long"
+
+[stack_vars.-0x80]
+offset = 0x0
+name = "v43"
+type = "float"
+size = 0x4
+addr = 0x39ff48
+
+[stack_vars.-0x7c]
+offset = 0x4
+name = "v44"
+type = "float"
+size = 0x4
+addr = 0x39ff48
+
+[stack_vars.-0x78]
+offset = 0x8
+name = "v45"
+type = "float"
+size = 0x4
+addr = 0x39ff48
+
+[stack_vars.-0x74]
+offset = 0xc
+name = "v46"
+type = "float"
+size = 0x4
+addr = 0x39ff48
+
+[stack_vars.-0x70]
+offset = 0x10
+name = "v47"
+type = "float"
+size = 0x4
+addr = 0x39ff48
+
+[stack_vars.-0x6c]
+offset = 0x14
+name = "v48"
+type = "float"
+size = 0x4
+addr = 0x39ff48
+
+[stack_vars.-0x68]
+offset = 0x18
+name = "v49"
+type = "float"
+size = 0x4
+addr = 0x39ff48
+
+[stack_vars.-0x64]
+offset = 0x1c
+name = "v50"
+type = "float"
+size = 0x4
+addr = 0x39ff48
+
+[stack_vars.-0x60]
+offset = 0x20
+name = "v51"
+type = "float"
+size = 0x4
+addr = 0x39ff48
+
+[stack_vars.-0x5c]
+offset = 0x24
+name = "v52"
+type = "float"
+size = 0x4
+addr = 0x39ff48
+
+[stack_vars.-0x58]
+offset = 0x28
+name = "v53"
+type = "float"
+size = 0x4
+addr = 0x39ff48
+
+[stack_vars.-0x54]
+offset = 0x2c
+name = "v54"
+type = "float"
+size = 0x4
+addr = 0x39ff48
+
+[stack_vars.-0x50]
+offset = 0x30
+name = "v55"
+type = "float"
+size = 0x4
+addr = 0x39ff48
+
+[stack_vars.-0x4c]
+offset = 0x34
+name = "v56"
+type = "float"
+size = 0x4
+addr = 0x39ff48
+
+[stack_vars.-0x48]
+offset = 0x38
+name = "v57"
+type = "float"
+size = 0x4
+addr = 0x39ff48
+
+[stack_vars.-0x44]
+offset = 0x3c
+name = "v58"
+type = "float"
+size = 0x4
+addr = 0x39ff48
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "unsigned char"
+size = 0x1
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "unsigned char"
+size = 0x1
+
+[header.args.2]
+offset = 0x2
+name = "a3"
+type = "unsigned char"
+size = 0x1
+
+[header.args.3]
+offset = 0x3
+name = "a4"
+type = "short"
+size = 0x2
+
+[header.args.4]
+offset = 0x4
+name = "a5"
+type = "unsigned char"
+size = 0x1
+
+[header.args.5]
+offset = 0x5
+name = "a6"
+type = "float"
+size = 0x4
+
+[header.args.6]
+offset = 0x6
+name = "a7"
+type = "float"
+size = 0x4
+
+[header.args.7]
+offset = 0x7
+name = "a8"
+type = "float"
+size = 0x4
+
+[header.args.8]
+offset = 0x8
+name = "a9"
+type = "float"
+size = 0x4
