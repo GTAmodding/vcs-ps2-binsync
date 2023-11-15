@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x285600
+size = 0x8c
+last_change = 2023-11-15T17:21:14.477615Z
+
+[header]
+last_change = 2023-11-15T17:19:35.805222Z
+name = "CPad::GetCarGunLeftRight"
+addr = 0x285600
+type = "long"
+
+[header.args.0]
+offset = 0x0
+name = "pad"
+type = "CPad *"
+size = 0x4
