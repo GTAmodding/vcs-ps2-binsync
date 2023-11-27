@@ -1,4 +1,9 @@
 [metadata]
 addr = 0x3947c8
 size = 0x184
-last_change = 2023-11-27T05:24:08.912599Z
+last_change = 2023-11-27T05:24:10.841882Z
+
+[header]
+last_change = 2023-11-27T05:24:10.841882Z
+name = "CVehicleModelInfo::SetElementRendererCB_Boat"
+addr = 0x3947c8
