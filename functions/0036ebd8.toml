@@ -1,4 +1,9 @@
 [metadata]
 addr = 0x36ebd8
 size = 0x20
-last_change = 2023-11-27T05:25:15.808890Z
+last_change = 2023-11-27T05:25:22.209656Z
+
+[header]
+last_change = 2023-11-27T05:25:22.209656Z
+name = "CVisibilityComponents::SetElementRenderCallback"
+addr = 0x36ebd8
