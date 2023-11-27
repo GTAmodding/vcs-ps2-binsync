@@ -28,12 +28,6 @@ addr = 0x48a14c
 name = ""
 size = 0x4
 
-[0x48a154]
-last_change = 2023-11-27T05:37:25.129941Z
-addr = 0x48a154
-name = "CVehicle::bWheelsOnlyCheat"
-size = 0x4
-
 [0x49b480]
 last_change = 2023-11-15T14:42:45.277560Z
 addr = 0x49b480
