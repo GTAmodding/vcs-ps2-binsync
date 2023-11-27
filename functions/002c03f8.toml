@@ -1,4 +1,12 @@
 [metadata]
 addr = 0x2c03f8
 size = 0xa0
-last_change = 2023-11-27T05:28:10.330360Z
+last_change = 2023-11-27T05:28:18.593104Z
+
+[stack_vars.-0x10]
+last_change = 2023-11-27T05:28:18.593104Z
+offset = -16
+name = "v4"
+type = "int"
+size = 0x4
+addr = 0x2c03f8
