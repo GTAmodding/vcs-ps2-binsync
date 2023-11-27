@@ -1,4 +1,9 @@
 [metadata]
 addr = 0x1b4b68
 size = 0x2c
-last_change = 2023-11-27T05:32:06.529007Z
+last_change = 2023-11-27T05:32:15.117185Z
+
+[header]
+last_change = 2023-11-27T05:32:15.117185Z
+name = "RslObjectHasNodeReleaseNode"
+addr = 0x1b4b68
