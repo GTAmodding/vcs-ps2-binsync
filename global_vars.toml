@@ -10,6 +10,12 @@ addr = 0x486128
 name = ""
 size = 0x4
 
+[0x486518]
+last_change = 2023-11-27T05:30:11.687462Z
+addr = 0x486518
+name = "CModelInfo::ms_modelInfoPtrs"
+size = 0x4
+
 [0x48a140]
 last_change = 2023-11-15T14:42:59.774362Z
 addr = 0x48a140
