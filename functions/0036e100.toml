@@ -1,4 +1,9 @@
 [metadata]
 addr = 0x36e100
 size = 0xf4
-last_change = 2023-11-27T05:26:38.784704Z
+last_change = 2023-11-27T05:26:47.217830Z
+
+[header]
+last_change = 2023-11-27T05:26:47.217830Z
+name = "CVisibilityComponents::RenderVehicleRotorAlphaCB"
+addr = 0x36e100
