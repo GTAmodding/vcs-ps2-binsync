@@ -1,4 +1,9 @@
 [metadata]
 addr = 0x394a90
 size = 0xac
-last_change = 2023-11-27T05:27:45.048871Z
+last_change = 2023-11-27T05:27:50.922137Z
+
+[header]
+last_change = 2023-11-27T05:27:50.922137Z
+name = "CVehicleModelInfo::SetElementRenderCallbacks"
+addr = 0x394a90
