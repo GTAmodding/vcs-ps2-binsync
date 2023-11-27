@@ -1,4 +1,9 @@
 [metadata]
 addr = 0x3c3e58
 size = 0xfc
-last_change = 2023-11-27T05:37:30.053635Z
+last_change = 2023-11-27T05:37:35.302954Z
+
+[header]
+last_change = 2023-11-27T05:37:35.302954Z
+name = "CEntity::Render"
+addr = 0x3c3e58
