@@ -1,9 +1,16 @@
 [metadata]
 addr = 0x3c3e58
 size = 0xfc
-last_change = 2023-11-27T05:37:35.302954Z
+last_change = 2023-11-27T05:38:45.148135Z
 
 [header]
-last_change = 2023-11-27T05:37:35.302954Z
+last_change = 2023-11-27T05:38:45.148135Z
 name = "CEntity::Render"
 addr = 0x3c3e58
+type = "void"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
