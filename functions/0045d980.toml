@@ -1,10 +1,10 @@
 [metadata]
 addr = 0x45d980
 size = 0x1c8
-last_change = 2023-11-27T05:25:04.857517Z
+last_change = 2023-11-27T05:24:55.352139Z
 
 [header]
-last_change = 2023-11-27T05:25:04.857517Z
+last_change = 2023-11-27T05:24:55.352139Z
 name = "strncmp"
 addr = 0x45d980
 type = "long"
@@ -18,7 +18,7 @@ size = 0x4
 [header.args.1]
 offset = 0x1
 name = "$A1"
-type = "char *"
+type = "char **"
 size = 0x4
 
 [header.args.2]
