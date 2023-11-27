@@ -1,4 +1,12 @@
 [metadata]
 addr = 0x395948
 size = 0x32c
-last_change = 2023-11-27T05:23:31.732568Z
+last_change = 2023-11-27T05:23:32.927981Z
+
+[stack_vars.-0x40]
+last_change = 2023-11-27T05:23:32.927981Z
+offset = -64
+name = "v34"
+type = "long"
+size = 0x8
+addr = 0x395948
