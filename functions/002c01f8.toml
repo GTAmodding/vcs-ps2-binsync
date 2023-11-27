@@ -1,9 +1,28 @@
 [metadata]
 addr = 0x2c01f8
 size = 0x78
-last_change = 2023-11-27T05:28:00.359426Z
+last_change = 2023-11-27T05:28:02.287147Z
 
 [header]
-last_change = 2023-11-27T05:28:00.359426Z
+last_change = 2023-11-27T05:28:02.287147Z
 name = "RslElementGroupForAllElements"
 addr = 0x2c01f8
+type = "int"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "int (__fastcall *)(_DWORD *, int)"
+size = 0x4
+
+[header.args.2]
+offset = 0x2
+name = "a3"
+type = "int"
+size = 0x4
