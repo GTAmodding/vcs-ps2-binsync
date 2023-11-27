@@ -1,4 +1,9 @@
 [metadata]
 addr = 0x1337c8
 size = 0x18
-last_change = 2023-11-27T05:38:11.731418Z
+last_change = 2023-11-27T05:38:20.033271Z
+
+[header]
+last_change = 2023-11-27T05:38:20.033271Z
+name = "GetCurrentElementObjectCB"
+addr = 0x1337c8
