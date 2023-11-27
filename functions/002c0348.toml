@@ -1,4 +1,9 @@
 [metadata]
 addr = 0x2c0348
 size = 0x28
-last_change = 2023-11-27T05:31:52.923060Z
+last_change = 2023-11-27T05:32:01.294401Z
+
+[header]
+last_change = 2023-11-27T05:32:01.294401Z
+name = "RslElementGroupRemoveElement"
+addr = 0x2c0348
