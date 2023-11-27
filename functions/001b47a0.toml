@@ -1,9 +1,28 @@
 [metadata]
 addr = 0x1b47a0
 size = 0x78
-last_change = 2023-11-27T05:37:55.337950Z
+last_change = 2023-11-27T05:38:26.350840Z
 
 [header]
-last_change = 2023-11-27T05:37:55.337950Z
+last_change = 2023-11-27T05:38:26.350840Z
 name = "RslNodeForAllObjects"
 addr = 0x1b47a0
+type = "int"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "int (__fastcall *)(_DWORD *, int)"
+size = 0x4
+
+[header.args.2]
+offset = 0x2
+name = "a3"
+type = "int"
+size = 0x4
