@@ -1,4 +1,12 @@
 [metadata]
 addr = 0x138280
 size = 0x8cc
-last_change = 2023-11-27T05:26:15.627902Z
+last_change = 2023-11-27T05:26:24.649006Z
+
+[stack_vars.-0x48]
+last_change = 2023-11-27T05:26:24.649006Z
+offset = -72
+name = "v75"
+type = "int[4]"
+size = 0x10
+addr = 0x138280
