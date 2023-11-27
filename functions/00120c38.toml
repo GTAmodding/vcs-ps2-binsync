@@ -1,4 +1,9 @@
 [metadata]
 addr = 0x120c38
 size = 0x8
-last_change = 2023-11-27T05:32:30.562369Z
+last_change = 2023-11-27T05:32:38.799019Z
+
+[header]
+last_change = 2023-11-27T05:32:38.799019Z
+name = "RslGeometryGetNumMaterials"
+addr = 0x120c38
