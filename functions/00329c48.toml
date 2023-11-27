@@ -1,4 +1,9 @@
 [metadata]
 addr = 0x329c48
 size = 0x20
-last_change = 2023-11-27T05:27:22.863869Z
+last_change = 2023-11-27T05:27:26.783081Z
+
+[header]
+last_change = 2023-11-27T05:27:26.783081Z
+name = "GetNodeNodeName"
+addr = 0x329c48
