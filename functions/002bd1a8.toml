@@ -1,4 +1,9 @@
 [metadata]
 addr = 0x2bd1a8
 size = 0x30
-last_change = 2023-11-27T05:32:16.630081Z
+last_change = 2023-11-27T05:32:24.945583Z
+
+[header]
+last_change = 2023-11-27T05:32:24.945583Z
+name = "operator_delete"
+addr = 0x2bd1a8
