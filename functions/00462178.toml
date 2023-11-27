@@ -1,4 +1,22 @@
 [metadata]
 addr = 0x462178
 size = 0x74
-last_change = 2023-11-27T05:25:32.871232Z
+last_change = 2023-11-27T05:25:38.717185Z
+
+[header]
+last_change = 2023-11-27T05:25:38.717185Z
+name = "_fopen"
+addr = 0x462178
+type = "long"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "long"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "char *"
+size = 0x4
