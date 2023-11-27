@@ -251,19 +251,19 @@ name = "a10"
 type = "int"
 size = 0x4
 
-[header.args.153094]
+[header.args.1388692]
 offset = 0xa
 name = "a11"
 type = "int"
 size = 0x4
 
-[header.args.153095]
+[header.args.1388693]
 offset = 0xb
 name = "a12"
 type = "int"
 size = 0x4
 
-[header.args.153096]
+[header.args.1388694]
 offset = 0xc
 name = "a13"
 type = "int"
